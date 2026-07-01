@@ -1,0 +1,15 @@
+{
+  "name": "mixch-event-db",
+  "version": "1.0.0",
+  "description": "Unofficial MixChannel event ranking archive and analytics site.",
+  "main": "scrape.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.js",
+    "test": "node scrape.js --dry-run"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {}
+}
