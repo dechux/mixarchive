@@ -1,10 +1,10 @@
-# Mixch Event DB
+# Mix Archive
 
 > Unofficial MixChannel Event Database & Analytics
 
 ## Overview
 
-Mixch Event DB は、MixChannel（ミクチャ）のイベント情報を収集し、
+Mix Archive は、MixChannel（ミクチャ）のイベント情報を収集し、
 ランキング・ポイント推移・ライバー参加履歴などを保存・検索できる
 非公式のデータベースです。
 
