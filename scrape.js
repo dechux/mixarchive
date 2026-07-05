@@ -33,7 +33,7 @@ async function main() {
   logger.info(`Parsed events: ${result.events.length}`);
 
   for (const event of result.events.slice(0, 5)) {
-    logger.info(`${event.eventId} / ${event.rawText} / ${event.eventUrl}`);
+   logger.info(`${event.eventId} / ${event.title} / ${event.eventUrl}`);
   }
 
   logger.success("Event scraping completed.");

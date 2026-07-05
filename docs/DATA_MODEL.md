@@ -51,11 +51,14 @@ Fields
 | startAt | Event start datetime |
 | endAt | Event end datetime |
 | status | upcoming / running / finished |
+| description | Event description text |
+| benefits | Event rewards / benefits |
+| requirements | Entry requirements |
+| detailCapturedAt | Event detail capture time |
 | participantCount | Number of saved participants |
 | snapshots | Snapshot IDs |
 | createdAt | First detected time |
 | updatedAt | Last updated time |
-
 ---
 
 # 2. Liver
@@ -148,6 +151,8 @@ Fields
 ## Event
 
 eventKey is immutable.
+
+Event detail text may be updated when the official event page changes.
 
 ---
 
