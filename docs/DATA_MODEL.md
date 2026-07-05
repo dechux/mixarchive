@@ -239,3 +239,15 @@ Future
 Supabase
 
 The model must remain compatible.
+
+# EventDetail
+
+Fields
+
+| Field | Description |
+|--------|-------------|
+| eventKey | Related event |
+| sections | Variable event detail sections |
+| rawText | Plain text of event detail page |
+| detailHash | Hash for change detection |
+| detailCapturedAt | Detail capture time |
