@@ -1,0 +1,135 @@
+{
+  "eventKey": "24234_20260629_20260708",
+  "eventId": "24234",
+  "capturedAt": "2026-07-08T12:22:18.068Z",
+  "entryCount": 13,
+  "rankingHash": "392b413823141857f901a33c109f85096373a4d61fcf2f1c85d07daf218714b6",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18185788",
+      "profileUrl": "https://mixch.tv/u/18185788",
+      "name": "灯田にじ【パラディーク】",
+      "point": 2555479,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18185788/1782465719/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18159189",
+      "profileUrl": "https://mixch.tv/u/18159189",
+      "name": "茅野風花(KRD8)",
+      "point": 1644871,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18159189/1781928351/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18920505",
+      "profileUrl": "https://mixch.tv/u/18920505",
+      "name": "マジスペYUYU🦋🫧",
+      "point": 1526535,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920505/1782703078/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "17375163",
+      "profileUrl": "https://mixch.tv/u/17375163",
+      "name": "最終日🩷宮脇はる ファーストプレイリスト",
+      "point": 1055258,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17375163/1767444327/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18919689",
+      "profileUrl": "https://mixch.tv/u/18919689",
+      "name": "兵頭美波 アップアップガールズ（２）",
+      "point": 513993,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919689/1782310831/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18918993",
+      "profileUrl": "https://mixch.tv/u/18918993",
+      "name": "himawari(船橋)きらり",
+      "point": 439174,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18918993/1782234424/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18891953",
+      "profileUrl": "https://mixch.tv/u/18891953",
+      "name": "羽田心咲『Lumiétoile』",
+      "point": 231334,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18891953/1779200305/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "15303329",
+      "profileUrl": "https://mixch.tv/u/15303329",
+      "name": "中村日菜【AQUAPLANET】",
+      "point": 216475,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/15303329/1782384325/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18912416",
+      "profileUrl": "https://mixch.tv/u/18912416",
+      "name": "須名優月(ルージュブック)",
+      "point": 143889,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912416/1782654570/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18919952",
+      "profileUrl": "https://mixch.tv/u/18919952",
+      "name": "【myojou】澪奈ゆん",
+      "point": 59380,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919952/1782558565/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18920643",
+      "profileUrl": "https://mixch.tv/u/18920643",
+      "name": "星野さゆ【ノベルノア】",
+      "point": 51617,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920643/1782461318/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18922972",
+      "profileUrl": "https://mixch.tv/u/18922972",
+      "name": "大園奈美(Sepiacode)",
+      "point": 45822,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18922972/1782643043/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "12466064",
+      "profileUrl": "https://mixch.tv/u/12466064",
+      "name": "尾上美月",
+      "point": 24478,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/12466064/1782741564/small"
+    }
+  ]
+}

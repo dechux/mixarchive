@@ -1,0 +1,47 @@
+{
+  "eventKey": "24084_20260615_20260717",
+  "eventId": "24084",
+  "capturedAt": "2026-07-08T12:22:23.318Z",
+  "entryCount": 2,
+  "rankingHash": "80eb30bd053e54bb38ac0a7407e023d16fd39f0c565c44df357f96999535fb7f",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18911085",
+      "profileUrl": "https://mixch.tv/u/18911085",
+      "name": "けっぱって東北",
+      "point": 1511878,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911085/1781519038/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18849884",
+      "profileUrl": "https://mixch.tv/u/18849884",
+      "name": "めんこいな東北",
+      "point": 877653,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18849884/1781518965/small"
+    }
+  ]
+}

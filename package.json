@@ -9,7 +9,7 @@
     "test": "node scrape.js --dry-run"
   },
   "dependencies": {
+    "iconv-lite": "^0.7.3",
     "playwright": "^1.49.1"
-  },
-  "devDependencies": {}
+  }
 }

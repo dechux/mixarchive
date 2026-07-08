@@ -5,8 +5,10 @@ import { Logger } from "./lib/logger.js";
 import { Storage } from "./lib/storage.js";
 import { toJstIsoString } from "./lib/datetime.js";
 import { fetchEvents } from "./lib/scraper.js";
+import { createEventRecord, updateEventRecord } from "./lib/eventService.js";
+import { EventPageService } from "./lib/eventPageService.js";
 import { EventDetailService } from "./lib/eventDetailService.js";
-import { createEventRecord } from "./lib/eventService.js";
+import { RankingService } from "./lib/rankingService.js";
 
 const logger = new Logger("MixArchive");
 
@@ -17,7 +19,7 @@ async function main() {
   logger.info("Config loaded.");
 
   const storage = new Storage({
-    baseDir: "data",
+    baseDir: "data/current",
     backupDir: "data/backups",
     enableBackup: config.storage?.backup ?? true
   });
@@ -36,74 +38,94 @@ async function main() {
   logger.info(`Fetched: ${result.url}`);
   logger.info(`Parsed events: ${result.events.length}`);
 
-  const detailLimit = config.scraping?.detailLimit ?? 5;
-  const detailTargets = result.events.slice(0, detailLimit);
-
-  logger.info(`Fetching event details: ${detailTargets.length}`);
-
   const browser = await chromium.launch({
     headless: config.scraping?.headless ?? true
   });
 
+  const page = await browser.newPage();
+
   try {
-    const page = await browser.newPage({
-      viewport: {
-        width: 1400,
-        height: 1200
+    const targetEvents = result.events.slice(0, 5);
+
+    logger.info(`Processing events: ${targetEvents.length}`);
+
+    for (const rawEvent of targetEvents) {
+      logger.info(`Processing event: ${rawEvent.eventId} / ${rawEvent.title}`);
+
+      const tempEvent = createEventRecord({
+        eventId: rawEvent.eventId,
+        title: rawEvent.title,
+        eventUrl: rawEvent.eventUrl,
+        startAt: rawEvent.startAt,
+        endAt: rawEvent.endAt,
+        status: rawEvent.phase || "active"
+      });
+
+      const pageCache = await EventPageService.open({
+        page,
+        event: tempEvent
+      });
+
+      const detail = EventDetailService.fetch({
+        pageContent: pageCache,
+        event: tempEvent
+      });
+
+      const event = createEventRecord({
+        eventId: rawEvent.eventId,
+        title: rawEvent.title || detail.title,
+        eventUrl: rawEvent.eventUrl,
+        startAt: detail.startAt || rawEvent.startAt,
+        endAt: detail.endAt || rawEvent.endAt,
+        status: rawEvent.phase || "active"
+      });
+
+      const existingEvent = storage.readEvent(event.eventKey);
+      const updatedEvent = updateEventRecord(existingEvent, event);
+
+      storage.saveEvent(updatedEvent);
+      logger.success(`Saved event: ${updatedEvent.eventKey}`);
+
+      const pageCacheForSave = {
+        ...pageCache,
+        eventKey: updatedEvent.eventKey,
+        eventId: updatedEvent.eventId,
+        eventUrl: updatedEvent.eventUrl,
+        title: updatedEvent.title
+      };
+
+      storage.savePageCache(pageCacheForSave);
+      logger.success(`Saved page cache: ${updatedEvent.eventKey}`);
+
+      const detailForSave = {
+        ...detail,
+        eventKey: updatedEvent.eventKey,
+        startAt: updatedEvent.startAt,
+        endAt: updatedEvent.endAt
+      };
+
+      const existingDetail = storage.readEventDetail(updatedEvent.eventKey);
+
+      if (existingDetail?.detailHash === detailForSave.detailHash) {
+        logger.info(`Detail unchanged: ${updatedEvent.eventKey}`);
+      } else {
+        storage.saveEventDetail(detailForSave);
+        logger.success(`Saved detail: ${updatedEvent.eventKey}`);
       }
-    });
 
-    for (const eventSummary of detailTargets) {
-      try {
-        logger.info(
-          `Fetching detail: ${eventSummary.eventId} / ${eventSummary.title}`
-        );
+      const ranking = RankingService.fetch({
+        pageContent: pageCacheForSave,
+        event: updatedEvent
+      });
 
-        await page.goto(eventSummary.eventUrl, {
-          waitUntil: "domcontentloaded",
-          timeout: 60000
-        });
+      const existingRanking = storage.readRanking(updatedEvent.eventKey);
 
-        await page.waitForTimeout(5000);
-
-        const detail = await EventDetailService.fetch({
-          page,
-          event: eventSummary
-        });
-
-        const event = createEventRecord({
-          eventId: eventSummary.eventId,
-          title: eventSummary.title,
-          eventUrl: eventSummary.eventUrl,
-          startAt: detail.startAt,
-          endAt: detail.endAt,
-          status: "unknown"
-        });
-
-        storage.saveEvent(event);
-
-        detail.eventKey = event.eventKey;
-
-        const existingDetail = storage.readEventDetail(event.eventKey);
-
-        const unchanged =
-          existingDetail &&
-          existingDetail.detailHash === detail.detailHash &&
-          existingDetail.startAt === detail.startAt &&
-          existingDetail.endAt === detail.endAt;
-
-        if (unchanged) {
-          logger.info(`Detail unchanged: ${event.eventKey}`);
-          continue;
-        }
-
-        storage.saveEventDetail(detail);
-
-        logger.success(`Saved event/detail: ${event.eventKey}`);
-      } catch (error) {
-        logger.error(
-          `Failed event/detail: ${eventSummary.eventId} / ${eventSummary.title}`,
-          error
+      if (existingRanking?.rankingHash === ranking.rankingHash) {
+        logger.info(`Ranking unchanged: ${updatedEvent.eventKey}`);
+      } else {
+        storage.saveRanking(ranking);
+        logger.success(
+          `Saved ranking: ${updatedEvent.eventKey} / entries: ${ranking.entryCount}`
         );
       }
     }
