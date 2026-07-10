@@ -1,0 +1,75 @@
+name: MixArchive Health Check
+
+on:
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+      - develop
+
+    paths:
+      - "lib/**"
+      - "scripts/**"
+      - "data/current/**"
+      - "database/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/health-check.yml"
+
+  pull_request:
+    branches:
+      - main
+
+    paths:
+      - "lib/**"
+      - "scripts/**"
+      - "data/current/**"
+      - "database/**"
+      - "package.json"
+      - "package-lock.json"
+      - ".github/workflows/health-check.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: mixarchive-health-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  health-check:
+    name: Project Health Check
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Show environment
+        run: |
+          echo "Node.js:"
+          node --version
+
+          echo ""
+          echo "npm:"
+          npm --version
+
+          echo ""
+          echo "Commit:"
+          echo "${{ github.sha }}"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run MixArchive project health check
+        run: node scripts/check-project-health.js

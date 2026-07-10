@@ -1,0 +1,263 @@
+{
+  "eventKey": "24297_20260706_20260712",
+  "eventId": "24297",
+  "capturedAt": "2026-07-08T13:05:37.860Z",
+  "entryCount": 29,
+  "rankingHash": "6b013ee1467ef4390c04bcec584109f8ffd9a6703c44ff45ba1a81e64c9cb323",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18537473",
+      "profileUrl": "https://mixch.tv/u/18537473",
+      "name": "本多澄一🩷🥋🎤DCミスターコン",
+      "point": 53540,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18537473/1783128144/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18908454",
+      "profileUrl": "https://mixch.tv/u/18908454",
+      "name": "はると🌹✨#DCミスターコン",
+      "point": 22948,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908454/1781072204/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18917136",
+      "profileUrl": "https://mixch.tv/u/18917136",
+      "name": "ぜん🐱📷 ♯DCミスターコン 挑戦中",
+      "point": 19878,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18917136/1782032916/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18871954",
+      "profileUrl": "https://mixch.tv/u/18871954",
+      "name": "そうた🥋🕺🔠＃DCミスターコン",
+      "point": 15199,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18871954/1780722658/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18833438",
+      "profileUrl": "https://mixch.tv/u/18833438",
+      "name": "れいり🥋⛓️#DCミスターコン",
+      "point": 14412,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18833438/1780911617/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18909715",
+      "profileUrl": "https://mixch.tv/u/18909715",
+      "name": "ゆきや⚽️#DCミスターコン2026",
+      "point": 13953,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909715/1783144964/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18820640",
+      "profileUrl": "https://mixch.tv/u/18820640",
+      "name": "川田龍季🏐🍖#DCミスターコン2026",
+      "point": 10740,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18820640/1783435092/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18871628",
+      "profileUrl": "https://mixch.tv/u/18871628",
+      "name": "向井悠🏐🎮️🌌#DCミスコンセミファイナル",
+      "point": 10336,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18871628/1782790993/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18171648",
+      "profileUrl": "https://mixch.tv/u/18171648",
+      "name": "れんれん🌴🌺 #DCミスターコン2026",
+      "point": 9992,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18171648/1783281822/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18849903",
+      "profileUrl": "https://mixch.tv/u/18849903",
+      "name": "りん🏸 ͗ ͗🍎 #DCミスターコン2026",
+      "point": 6920,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18849903/1775188968/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18827818",
+      "profileUrl": "https://mixch.tv/u/18827818",
+      "name": "るいるい🐬🍓#DCミスターコン2026",
+      "point": 6072,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18827818/1782525816/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18919715",
+      "profileUrl": "https://mixch.tv/u/18919715",
+      "name": "しゅうと⚽️💙#DCミスターコン",
+      "point": 5220,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919715/1782611873/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18243007",
+      "profileUrl": "https://mixch.tv/u/18243007",
+      "name": "ゆーや🌈⭐️#DCミスターコン2026",
+      "point": 3270,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18243007/1777776175/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18797570",
+      "profileUrl": "https://mixch.tv/u/18797570",
+      "name": "エーデン🐴👑#DCミスターコン",
+      "point": 2574,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18797570/1783413361/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18908442",
+      "profileUrl": "https://mixch.tv/u/18908442",
+      "name": "ゆう🐿️⚽️#中学1年ミスターコン",
+      "point": 2320,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908442/1781181841/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18793085",
+      "profileUrl": "https://mixch.tv/u/18793085",
+      "name": "りくと👑🩵#DCミスターコン2026",
+      "point": 1884,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18793085/1768396711/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18766245",
+      "profileUrl": "https://mixch.tv/u/18766245",
+      "name": "えいし🥹👌 #DCミスターコン2026",
+      "point": 1850,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18766245/1775734758/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18629557",
+      "profileUrl": "https://mixch.tv/u/18629557",
+      "name": "はるく🏀🍖#DCミスターコン2026",
+      "point": 918,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18629557/1781600220/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18610335",
+      "profileUrl": "https://mixch.tv/u/18610335",
+      "name": "ぶちかます🦂けい⚖️ ＃DC2026",
+      "point": 860,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18610335/1777546620/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18896237",
+      "profileUrl": "https://mixch.tv/u/18896237",
+      "name": "りゅうぺー🐈‍⬛🐈🎾✨#DCミスターコン",
+      "point": 670,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18896237/1779713019/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "18820452",
+      "profileUrl": "https://mixch.tv/u/18820452",
+      "name": "てっぺい🕺♪#DCミスターコン",
+      "point": 640,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18820452/1777984267/small"
+    },
+    {
+      "rank": 22,
+      "profileId": "18919377",
+      "profileUrl": "https://mixch.tv/u/18919377",
+      "name": "そわ🕊️💙＃DC中1ミスターコン",
+      "point": 510,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919377/1782646248/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18919608",
+      "profileUrl": "https://mixch.tv/u/18919608",
+      "name": "ゆういちろう🏀🎧#DC ミスターコン",
+      "point": 432,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919608/1782305967/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "18909893",
+      "profileUrl": "https://mixch.tv/u/18909893",
+      "name": "そーご💪🎯🎮️🛹#DCミスターコン",
+      "point": 206,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909893/1781873137/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "18919220",
+      "profileUrl": "https://mixch.tv/u/18919220",
+      "name": "ケイ🏃💨#DCミスターコン",
+      "point": 104,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919220/1783416056/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18892379",
+      "profileUrl": "https://mixch.tv/u/18892379",
+      "name": "けんと 🎹✨⚾️#DCミスターコン",
+      "point": 100,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18892379/1780788041/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18899423",
+      "profileUrl": "https://mixch.tv/u/18899423",
+      "name": "れん💫DCミスターコン2026",
+      "point": 30,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18899423/1783210504/small"
+    },
+    {
+      "rank": 28,
+      "profileId": "18911834",
+      "profileUrl": "https://mixch.tv/u/18911834",
+      "name": "とあ🎧🐶#DCミスターコン2026",
+      "point": 20,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911834/1781685930/small"
+    },
+    {
+      "rank": 29,
+      "profileId": "18910119",
+      "profileUrl": "https://mixch.tv/u/18910119",
+      "name": "はるき🌰⚽️#DCミスターコン",
+      "point": 20,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910119/1781950891/small"
+    }
+  ]
+}

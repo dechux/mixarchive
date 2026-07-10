@@ -1,0 +1,127 @@
+{
+  "eventKey": "23771_20260624_20260727",
+  "eventId": "23771",
+  "capturedAt": "2026-07-08T14:09:31.096Z",
+  "entryCount": 12,
+  "rankingHash": "fa7f1a6edf4a2ef24feedac566fc39ce568e05af32fd70cfc062b16fec5aab7f",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18794062",
+      "profileUrl": "https://mixch.tv/u/18794062",
+      "name": "マンガ家佐海ずう👯‍♀️🎨#アート女子",
+      "point": 403275,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18794062/1782315311/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "17233982",
+      "profileUrl": "https://mixch.tv/u/17233982",
+      "name": "ゆきちゃ。🦝❄#アート女子",
+      "point": 215590,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17233982/1782861609/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18866552",
+      "profileUrl": "https://mixch.tv/u/18866552",
+      "name": "Lily🧸🕯️#アート女子",
+      "point": 135774,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18866552/1779870929/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18859499",
+      "profileUrl": "https://mixch.tv/u/18859499",
+      "name": "コンちゃん🦊💛#アート",
+      "point": 115134,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18859499/1783315712/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18877022",
+      "profileUrl": "https://mixch.tv/u/18877022",
+      "name": "まみ🎎🌸#アート女子",
+      "point": 74705,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18877022/1777634498/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18861767",
+      "profileUrl": "https://mixch.tv/u/18861767",
+      "name": "べべ👽💐#アート女子",
+      "point": 70061,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18861767/1779941145/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18878588",
+      "profileUrl": "https://mixch.tv/u/18878588",
+      "name": "瀬斗 慈(せと めぐみ🩷)🎨#アート女子",
+      "point": 49783,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18878588/1782208910/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "16630280",
+      "profileUrl": "https://mixch.tv/u/16630280",
+      "name": "🍐🍊Yukii🌿#アート📸",
+      "point": 44428,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16630280/1781063220/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18844797",
+      "profileUrl": "https://mixch.tv/u/18844797",
+      "name": "パトン🆘はる姐🎨🕶️#アート女子",
+      "point": 33240,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18844797/1780800498/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18252666",
+      "profileUrl": "https://mixch.tv/u/18252666",
+      "name": "ちはる🐮🍀#アート女子",
+      "point": 32316,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18252666/1782497064/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18861106",
+      "profileUrl": "https://mixch.tv/u/18861106",
+      "name": "パトンMaYU🫧#アート女子",
+      "point": 17380,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18861106/1780237045/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18846561",
+      "profileUrl": "https://mixch.tv/u/18846561",
+      "name": "ぷれみ🌟🎨パトン投票🙏❗️#アート女子",
+      "point": 10380,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18846561/1781407290/small"
+    }
+  ]
+}

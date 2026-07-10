@@ -1,0 +1,93 @@
+{
+  "snapshotId": "9726a6c5fb6558392d0dbf02e6da6f0ebb8bc046",
+  "eventKey": "24292_20260706_20260713",
+  "eventId": "24292",
+  "capturedAt": "2026-07-08T14:09:15.338Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "264e18c664038fdffa3bf9c2a0ddf1381e11f14123661b7074d086ab9b1d676e",
+  "entryCount": 10,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18926580",
+      "profileUrl": "https://mixch.tv/u/18926580",
+      "name": "しほ‎‎𖤐 ̖́-‬ MCC2026",
+      "point": 25796,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18926580/1782915457/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18926793",
+      "profileUrl": "https://mixch.tv/u/18926793",
+      "name": "にゃみnyami🧛‍♀️",
+      "point": 24950,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18926793/1783086686/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18367747",
+      "profileUrl": "https://mixch.tv/u/18367747",
+      "name": "ゆいにゃ🐈🥁#MCCWEST",
+      "point": 20382,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18367747/1783428126/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18402027",
+      "profileUrl": "https://mixch.tv/u/18402027",
+      "name": "あにか🛸💙MCC2026",
+      "point": 16400,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18402027/1782998497/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18926539",
+      "profileUrl": "https://mixch.tv/u/18926539",
+      "name": "りり💮🍒",
+      "point": 14588,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18926539/1783173013/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18926508",
+      "profileUrl": "https://mixch.tv/u/18926508",
+      "name": "るりエル🦋‎🤍",
+      "point": 11006,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18926508/1782912530/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18928006",
+      "profileUrl": "https://mixch.tv/u/18928006",
+      "name": "このか🐱💜 #MCC WEST",
+      "point": 10166,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18928006/1783079313/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18927599",
+      "profileUrl": "https://mixch.tv/u/18927599",
+      "name": "あやか🦢🤍#MCC WEST",
+      "point": 6932,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927599/1783055944/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18927641",
+      "profileUrl": "https://mixch.tv/u/18927641",
+      "name": "そら🎀🪞#MCCWEST",
+      "point": 6230,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927641/1783335007/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18319353",
+      "profileUrl": "https://mixch.tv/u/18319353",
+      "name": "ひなた🌻‪🔆‬",
+      "point": 5440,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18319353/1782917442/small"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "eventKey": "24237_20260629_20260709",
+  "eventId": "24237",
+  "capturedAt": "2026-07-08T14:09:46.855Z",
+  "entryCount": 13,
+  "rankingHash": "a3e8d60a963b4438f03da7d1ee88edb80adb5afbc5559e6d7d2082dd62287e7f",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18724774",
+      "profileUrl": "https://mixch.tv/u/18724774",
+      "name": "最終日🔥平田祐誠🐶🐾#カレッジ",
+      "point": 308553,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18724774/1776731747/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "13592641",
+      "profileUrl": "https://mixch.tv/u/13592641",
+      "name": "はるか🎀‎🫧#カレッジ",
+      "point": 102200,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/13592641/1755603916/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18867524",
+      "profileUrl": "https://mixch.tv/u/18867524",
+      "name": "京生7/8最終美🍒🐨#ｶﾚｯｼﾞ",
+      "point": 93260,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18867524/1782064292/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "13868168",
+      "profileUrl": "https://mixch.tv/u/13868168",
+      "name": "はると🐯🌹#College2026",
+      "point": 42697,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/13868168/1776791924/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "17143451",
+      "profileUrl": "https://mixch.tv/u/17143451",
+      "name": "☁️みる☁️#ｶﾚｯｼﾞ",
+      "point": 41122,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17143451/1780064948/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18741728",
+      "profileUrl": "https://mixch.tv/u/18741728",
+      "name": "りっきー⭐️📛#カレッジ",
+      "point": 38981,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18741728/1780733219/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "15960201",
+      "profileUrl": "https://mixch.tv/u/15960201",
+      "name": "たつき💤❤️‍🔥#college",
+      "point": 30047,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/15960201/1781272069/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18692302",
+      "profileUrl": "https://mixch.tv/u/18692302",
+      "name": "たくみ⚽️🍭#college",
+      "point": 21850,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18692302/1779559833/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18472313",
+      "profileUrl": "https://mixch.tv/u/18472313",
+      "name": "最終日❤️‍🔥ken⚔️💙#college",
+      "point": 16750,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18472313/1778498655/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18868259",
+      "profileUrl": "https://mixch.tv/u/18868259",
+      "name": "最終日🔥植田 俊太💪🏋🏻 #カレッジ",
+      "point": 13165,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18868259/1782470710/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18564159",
+      "profileUrl": "https://mixch.tv/u/18564159",
+      "name": "SARAH.🎎🏮",
+      "point": 10728,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18564159/1778485096/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18869039",
+      "profileUrl": "https://mixch.tv/u/18869039",
+      "name": "しゅんすけ 🦀🍌#カレッジ",
+      "point": 7248,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18869039/1780935650/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "17875547",
+      "profileUrl": "https://mixch.tv/u/17875547",
+      "name": "水瀬みり💧🫧#college",
+      "point": 2755,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17875547/1778577233/small"
+    }
+  ]
+}

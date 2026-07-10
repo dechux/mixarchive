@@ -1,0 +1,127 @@
+{
+  "eventKey": "24195_20260702_20260710",
+  "eventId": "24195",
+  "capturedAt": "2026-07-08T14:08:17.421Z",
+  "entryCount": 12,
+  "rankingHash": "e6f35a7da33ca3e15b58329e4505a11e6f0a3d4864ab8be0e176c5a09294a5d3",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18839076",
+      "profileUrl": "https://mixch.tv/u/18839076",
+      "name": "⒑最終日の結川譲🐱🚀👽#IVI所属AD",
+      "point": 42042,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18839076/1783447389/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18923924",
+      "profileUrl": "https://mixch.tv/u/18923924",
+      "name": "りん🍎🐾#IVI所属ADスタダ",
+      "point": 39880,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18923924/1782721521/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18927820",
+      "profileUrl": "https://mixch.tv/u/18927820",
+      "name": "あおい🛼🩶#IVI所属AD",
+      "point": 8742,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927820/1783070274/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18927241",
+      "profileUrl": "https://mixch.tv/u/18927241",
+      "name": "みさき🌻🍁IVI所属AD",
+      "point": 3000,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927241/1782992631/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18919301",
+      "profileUrl": "https://mixch.tv/u/18919301",
+      "name": "KOSE❄️🐺#IVI所属AD",
+      "point": 2598,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919301/1782296909/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18925009",
+      "profileUrl": "https://mixch.tv/u/18925009",
+      "name": "ソト👻😜#IVI所属AD",
+      "point": 2572,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18925009/1783004085/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "15289797",
+      "profileUrl": "https://mixch.tv/u/15289797",
+      "name": "そら（想来）IVI オーディション参加中",
+      "point": 1774,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/15289797/1780574760/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18927825",
+      "profileUrl": "https://mixch.tv/u/18927825",
+      "name": "そあ🧡🧸#IVI所属AD",
+      "point": 844,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927825/1783071087/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18925062",
+      "profileUrl": "https://mixch.tv/u/18925062",
+      "name": "えみ⭐︎🍓🪽#IVI所属AD",
+      "point": 790,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18925062/1782812518/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18924875",
+      "profileUrl": "https://mixch.tv/u/18924875",
+      "name": "Yuto⭐️#IVI所属AD",
+      "point": 746,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18924875/1782790033/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18925902",
+      "profileUrl": "https://mixch.tv/u/18925902",
+      "name": "りゅう🐉🐹#IVI所属AD",
+      "point": 520,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18925902/1783007873/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18895884",
+      "profileUrl": "https://mixch.tv/u/18895884",
+      "name": "Miku#IVI",
+      "point": 180,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18895884/1781096708/small"
+    }
+  ]
+}

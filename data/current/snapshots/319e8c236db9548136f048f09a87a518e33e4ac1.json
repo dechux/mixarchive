@@ -1,0 +1,61 @@
+{
+  "snapshotId": "319e8c236db9548136f048f09a87a518e33e4ac1",
+  "eventKey": "24167_20260629_20260720",
+  "eventId": "24167",
+  "capturedAt": "2026-07-08T14:07:45.876Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "7969f7a42a980121f9fd7474d6e5b5f0b684b1be2f891deab42c95ed81e54177",
+  "entryCount": 6,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18116480",
+      "profileUrl": "https://mixch.tv/u/18116480",
+      "name": "REMIchan🤙🏻💖#nuts専属ad",
+      "point": 1001624,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18116480/1783428207/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "11608287",
+      "profileUrl": "https://mixch.tv/u/11608287",
+      "name": "衣織(いおり)🦎💞#nuts専属になる",
+      "point": 851911,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/11608287/1783441887/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18100226",
+      "profileUrl": "https://mixch.tv/u/18100226",
+      "name": "ゆちゃん🐆🤎#nuts専属決勝",
+      "point": 601810,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18100226/1782940273/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18879813",
+      "profileUrl": "https://mixch.tv/u/18879813",
+      "name": "ららぴ🐣🍒#nuts専属モデルAD",
+      "point": 353310,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18879813/1782074883/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18882123",
+      "profileUrl": "https://mixch.tv/u/18882123",
+      "name": "秦苺香🍓🖤 #nuts専属絶対🥇‼️",
+      "point": 149145,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18882123/1783484957/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "12648789",
+      "profileUrl": "https://mixch.tv/u/12648789",
+      "name": "あき👱🏽‍♀️🩷#そうめん🎋",
+      "point": 840,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/12648789/1782906475/small"
+    }
+  ]
+}

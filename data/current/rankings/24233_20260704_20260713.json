@@ -1,0 +1,431 @@
+{
+  "eventKey": "24233_20260704_20260713",
+  "eventId": "24233",
+  "capturedAt": "2026-07-08T14:08:49.102Z",
+  "entryCount": 50,
+  "rankingHash": "099071cd9fbce11cc08c59255541c017dec18ee0f6e455340e131f150e4d9fea",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18585063",
+      "profileUrl": "https://mixch.tv/u/18585063",
+      "name": "ゆーゆ🌺🤘🙏",
+      "point": 303191,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18585063/1781183162/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18359504",
+      "profileUrl": "https://mixch.tv/u/18359504",
+      "name": "🌺💖ゆいぴ💖🌺#KOGYARU読モ",
+      "point": 214418,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18359504/1768045392/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18831321",
+      "profileUrl": "https://mixch.tv/u/18831321",
+      "name": "あゆ💜🦄#KOGYARU読モ",
+      "point": 203186,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18831321/1783310645/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18739958",
+      "profileUrl": "https://mixch.tv/u/18739958",
+      "name": "れれぴ🩶🌺7/4からガチイベ❤️‍🔥",
+      "point": 201760,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18739958/1781947662/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18632852",
+      "profileUrl": "https://mixch.tv/u/18632852",
+      "name": "りこぴ🧸🎀#kogyaru読モ",
+      "point": 151776,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18632852/1772956588/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "13683578",
+      "profileUrl": "https://mixch.tv/u/13683578",
+      "name": "あるちゃも🌺🎀KOGYARUガチイベ❤️‍🔥",
+      "point": 132075,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/13683578/1782840868/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18367601",
+      "profileUrl": "https://mixch.tv/u/18367601",
+      "name": "MIINA!🐅🖤7/4〜ガチ",
+      "point": 131468,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18367601/1769746711/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18661619",
+      "profileUrl": "https://mixch.tv/u/18661619",
+      "name": "モカ🐣‪💛#ｺｷﾞｬﾙ読ﾓﾗﾝｸｱｯﾌﾟ",
+      "point": 131168,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18661619/1780874651/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18299825",
+      "profileUrl": "https://mixch.tv/u/18299825",
+      "name": "はのぴ💝⭐️超ガチ‼︎#ｺｷﾞｬﾙ読モ",
+      "point": 127304,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18299825/1782863719/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18524376",
+      "profileUrl": "https://mixch.tv/u/18524376",
+      "name": "💛🌺ゆまな🌺💛#KOGYARU読モ",
+      "point": 125406,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18524376/1779343934/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18350307",
+      "profileUrl": "https://mixch.tv/u/18350307",
+      "name": "り〜ちょぱ🌺💙超ｶﾞﾁｺｷﾞｬﾙ読モ",
+      "point": 124752,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18350307/1781449299/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18510862",
+      "profileUrl": "https://mixch.tv/u/18510862",
+      "name": "NANAPI💜🎀7/4〜ｶﾞﾁｲﾍﾞ❤️‍🔥",
+      "point": 121780,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18510862/1781790861/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18341811",
+      "profileUrl": "https://mixch.tv/u/18341811",
+      "name": "HARU🤣🩵#KOGYARU読モ",
+      "point": 108452,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18341811/1775025839/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18706938",
+      "profileUrl": "https://mixch.tv/u/18706938",
+      "name": "🎀るかち🎀🐬💎#KOGYARU読モ",
+      "point": 107452,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18706938/1763651050/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18341296",
+      "profileUrl": "https://mixch.tv/u/18341296",
+      "name": "みゆゆ🐰🌺#7/4KOGYARU",
+      "point": 78162,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18341296/1778471975/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18893988",
+      "profileUrl": "https://mixch.tv/u/18893988",
+      "name": "さくや💜‪🎹#KOGYARU読モ",
+      "point": 69844,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18893988/1783132537/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18369635",
+      "profileUrl": "https://mixch.tv/u/18369635",
+      "name": "🌺🐥のあち🐥🌺#KOGYARU読モ",
+      "point": 67516,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18369635/1771920598/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18633101",
+      "profileUrl": "https://mixch.tv/u/18633101",
+      "name": "ゆっぴ〜🐣🌺超超超超超超超ガチイベ‼️",
+      "point": 60385,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18633101/1780820528/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18449398",
+      "profileUrl": "https://mixch.tv/u/18449398",
+      "name": "👑🩵さや🩵👑#KOGYARU読モ",
+      "point": 60382,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18449398/1782897104/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18435252",
+      "profileUrl": "https://mixch.tv/u/18435252",
+      "name": "ゆのん💎💙#KOGYARU読モ",
+      "point": 58098,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18435252/1775211523/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "18834483",
+      "profileUrl": "https://mixch.tv/u/18834483",
+      "name": "まおりん💖🎀💖#KOGYARU",
+      "point": 56134,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18834483/1778077861/small"
+    },
+    {
+      "rank": 22,
+      "profileId": "18847306",
+      "profileUrl": "https://mixch.tv/u/18847306",
+      "name": "せなち🌺🎀KOGYARUランクアップ",
+      "point": 52040,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18847306/1780738188/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18202820",
+      "profileUrl": "https://mixch.tv/u/18202820",
+      "name": "あーちゃん💜🌺#7/4～ガチイベ",
+      "point": 50064,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18202820/1782310490/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "18758211",
+      "profileUrl": "https://mixch.tv/u/18758211",
+      "name": "るかめ🐢🩷#KOGYARU読モ",
+      "point": 49130,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18758211/1778514724/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "18652978",
+      "profileUrl": "https://mixch.tv/u/18652978",
+      "name": "ゆづぴ🧸🫧コギャルガチイベ",
+      "point": 42272,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18652978/1779883764/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18346688",
+      "profileUrl": "https://mixch.tv/u/18346688",
+      "name": "🌺💋りりな🌺💋#ランクアップイベ中💖✨",
+      "point": 41516,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18346688/1775566606/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18837024",
+      "profileUrl": "https://mixch.tv/u/18837024",
+      "name": "8才のｷﾞｬﾙ あかりん🦋💫",
+      "point": 37880,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18837024/1782424300/small"
+    },
+    {
+      "rank": 28,
+      "profileId": "18758054",
+      "profileUrl": "https://mixch.tv/u/18758054",
+      "name": "🌻きき🖤#KOGYARU読モランクアップ",
+      "point": 34236,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18758054/1782630458/small"
+    },
+    {
+      "rank": 29,
+      "profileId": "18814048",
+      "profileUrl": "https://mixch.tv/u/18814048",
+      "name": "るちゃ✌🏽🌺 #KOGYARU読モ",
+      "point": 34206,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18814048/1774014090/small"
+    },
+    {
+      "rank": 30,
+      "profileId": "18766603",
+      "profileUrl": "https://mixch.tv/u/18766603",
+      "name": "💜🪽うたぴ🪽💜#KOGYARU読モ",
+      "point": 30579,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18766603/1781408325/small"
+    },
+    {
+      "rank": 31,
+      "profileId": "18258145",
+      "profileUrl": "https://mixch.tv/u/18258145",
+      "name": "ギャルあおい💋🫶💜 KG読モ7/4～",
+      "point": 30200,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18258145/1782062710/small"
+    },
+    {
+      "rank": 32,
+      "profileId": "18449404",
+      "profileUrl": "https://mixch.tv/u/18449404",
+      "name": "💖れなな💖",
+      "point": 28978,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18449404/1778670252/small"
+    },
+    {
+      "rank": 33,
+      "profileId": "18633118",
+      "profileUrl": "https://mixch.tv/u/18633118",
+      "name": "しはるん🍒🌺#KOGYARU読モ",
+      "point": 28930,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18633118/1782548336/small"
+    },
+    {
+      "rank": 34,
+      "profileId": "18771154",
+      "profileUrl": "https://mixch.tv/u/18771154",
+      "name": "みぃみ🧚‍♀️🎀#kogyaru",
+      "point": 28656,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18771154/1782832866/small"
+    },
+    {
+      "rank": 35,
+      "profileId": "18763157",
+      "profileUrl": "https://mixch.tv/u/18763157",
+      "name": "るーちゃむ🌺🐾#KOGYARU読モ",
+      "point": 28366,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18763157/1783412075/small"
+    },
+    {
+      "rank": 36,
+      "profileId": "18868102",
+      "profileUrl": "https://mixch.tv/u/18868102",
+      "name": "さくら🌺🩵#KOGYARU読モ",
+      "point": 28138,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18868102/1781566478/small"
+    },
+    {
+      "rank": 37,
+      "profileId": "18736565",
+      "profileUrl": "https://mixch.tv/u/18736565",
+      "name": "めいるん🌈✨コギャル読モ7/4〜",
+      "point": 27550,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18736565/1779661116/small"
+    },
+    {
+      "rank": 38,
+      "profileId": "18723007",
+      "profileUrl": "https://mixch.tv/u/18723007",
+      "name": "さくぴん🖤❣️#ガチイベ中❤️‍🔥",
+      "point": 27216,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18723007/1783336146/small"
+    },
+    {
+      "rank": 39,
+      "profileId": "18524401",
+      "profileUrl": "https://mixch.tv/u/18524401",
+      "name": "🌺らんぴ☺︎🌺💕KOGYARU読モ",
+      "point": 27140,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18524401/1775430451/small"
+    },
+    {
+      "rank": 40,
+      "profileId": "18362672",
+      "profileUrl": "https://mixch.tv/u/18362672",
+      "name": "ゆう🐶🌺#KOGYARU",
+      "point": 26590,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18362672/1783489949/small"
+    },
+    {
+      "rank": 41,
+      "profileId": "18558726",
+      "profileUrl": "https://mixch.tv/u/18558726",
+      "name": "りい🦋💄#コギャル読モ",
+      "point": 26572,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18558726/1755794134/small"
+    },
+    {
+      "rank": 42,
+      "profileId": "18740949",
+      "profileUrl": "https://mixch.tv/u/18740949",
+      "name": "りん🛎️😆🌺#KOGYARU読モ✨️",
+      "point": 26520,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18740949/1781515585/small"
+    },
+    {
+      "rank": 43,
+      "profileId": "18816849",
+      "profileUrl": "https://mixch.tv/u/18816849",
+      "name": "シイナ💟#KOGYARU読モ‪‪❤️‍🔥",
+      "point": 26518,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18816849/1781323584/small"
+    },
+    {
+      "rank": 44,
+      "profileId": "18507859",
+      "profileUrl": "https://mixch.tv/u/18507859",
+      "name": "ゆらぴー🐣🫧#KOGYARU読モ",
+      "point": 26288,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18507859/1767435472/small"
+    },
+    {
+      "rank": 45,
+      "profileId": "18604052",
+      "profileUrl": "https://mixch.tv/u/18604052",
+      "name": "ゆりりん🐻ᩚ🎀ᩚ#KOGARU読モ",
+      "point": 25610,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18604052/1783434403/small"
+    },
+    {
+      "rank": 46,
+      "profileId": "13774204",
+      "profileUrl": "https://mixch.tv/u/13774204",
+      "name": "復活のかれぽよ🍼🧡読モﾗﾝｸｱｯﾌﾟｲﾍﾞ",
+      "point": 23598,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/13774204/1783482692/small"
+    },
+    {
+      "rank": 47,
+      "profileId": "18855241",
+      "profileUrl": "https://mixch.tv/u/18855241",
+      "name": "すーじー🍓🍚KOGYARU読モｶﾞﾁｲﾍﾞ❤️‍🔥",
+      "point": 22777,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18855241/1777697813/small"
+    },
+    {
+      "rank": 48,
+      "profileId": "18569383",
+      "profileUrl": "https://mixch.tv/u/18569383",
+      "name": "さく☆ゆぴ💛🎀#KOGYARUガチイベ✨",
+      "point": 22758,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18569383/1778455243/small"
+    },
+    {
+      "rank": 49,
+      "profileId": "18861006",
+      "profileUrl": "https://mixch.tv/u/18861006",
+      "name": "えなち🍦🌈",
+      "point": 22474,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18861006/1783166720/small"
+    },
+    {
+      "rank": 50,
+      "profileId": "18566357",
+      "profileUrl": "https://mixch.tv/u/18566357",
+      "name": "じゅらん🦧🧡",
+      "point": 22350,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18566357/1762777127/small"
+    }
+  ]
+}

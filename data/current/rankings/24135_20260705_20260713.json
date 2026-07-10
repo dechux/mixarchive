@@ -1,0 +1,175 @@
+{
+  "eventKey": "24135_20260705_20260713",
+  "eventId": "24135",
+  "capturedAt": "2026-07-08T14:09:04.843Z",
+  "entryCount": 18,
+  "rankingHash": "19f0b208ecc192fccaaeddf91dd2afcd3a8299e955c53f38bfc0c5b0afa719fb",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18873554",
+      "profileUrl": "https://mixch.tv/u/18873554",
+      "name": "明日実えり｜ひえぴた#NSL",
+      "point": 199035,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18873554/1777109120/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18692933",
+      "profileUrl": "https://mixch.tv/u/18692933",
+      "name": "こーん🌽🎀#NEXTSTAR本日1.2倍",
+      "point": 194624,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18692933/1783250961/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18880000",
+      "profileUrl": "https://mixch.tv/u/18880000",
+      "name": "永瀬 蒼",
+      "point": 165225,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18880000/1783499387/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18613464",
+      "profileUrl": "https://mixch.tv/u/18613464",
+      "name": "1.2倍あやや🌸🐰NEXT STAR決勝",
+      "point": 128341,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18613464/1767225998/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18756736",
+      "profileUrl": "https://mixch.tv/u/18756736",
+      "name": "あい🌙🩵NSL☆配信1.2倍",
+      "point": 117819,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18756736/1776268722/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18431971",
+      "profileUrl": "https://mixch.tv/u/18431971",
+      "name": "やすこ🍫🎀雑誌ヤンチャン載りたい‼︎",
+      "point": 74659,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18431971/1783022789/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18805184",
+      "profileUrl": "https://mixch.tv/u/18805184",
+      "name": "1.2倍のぎたお🌙🎸#NEXTSTA",
+      "point": 45183,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18805184/1780204689/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18585524",
+      "profileUrl": "https://mixch.tv/u/18585524",
+      "name": "れい🕊️🧩",
+      "point": 45101,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18585524/1781668229/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18895794",
+      "profileUrl": "https://mixch.tv/u/18895794",
+      "name": "えすこッ📢🩷#NEXTSTAR",
+      "point": 44289,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18895794/1783434990/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18799743",
+      "profileUrl": "https://mixch.tv/u/18799743",
+      "name": "1.2倍率日❤️‍🔥とわ🫧💠🪽#NSL決勝",
+      "point": 40726,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18799743/1783338733/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18270477",
+      "profileUrl": "https://mixch.tv/u/18270477",
+      "name": "りーが⚽️☔️#NSL配信1.2倍",
+      "point": 31000,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18270477/1781614004/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "17587767",
+      "profileUrl": "https://mixch.tv/u/17587767",
+      "name": "ありさ🐼🐨#NEXTSTAR",
+      "point": 30641,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17587767/1779419997/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18751687",
+      "profileUrl": "https://mixch.tv/u/18751687",
+      "name": "9日1.2倍★Emiri🐘🏝 #NSL￤",
+      "point": 20899,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18751687/1782989880/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "17905879",
+      "profileUrl": "https://mixch.tv/u/17905879",
+      "name": "金城カナ🌶😁#next ster",
+      "point": 20718,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17905879/1775128922/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "17651753",
+      "profileUrl": "https://mixch.tv/u/17651753",
+      "name": "愛莉🧡🍓#決勝‼️5日〜12日まで",
+      "point": 16374,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17651753/1734867114/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18586596",
+      "profileUrl": "https://mixch.tv/u/18586596",
+      "name": "いちろう️DX️️🌺🐥のあち🐥🌺MG",
+      "point": 12424,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18586596/1765006704/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18884177",
+      "profileUrl": "https://mixch.tv/u/18884177",
+      "name": "ねんか様🩵🎷NEXTSTAR",
+      "point": 10998,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18884177/1779693889/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18473435",
+      "profileUrl": "https://mixch.tv/u/18473435",
+      "name": "とり #さらゆめ🥁🐱パトン初日",
+      "point": 600,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18473435/1783510549/small"
+    }
+  ]
+}

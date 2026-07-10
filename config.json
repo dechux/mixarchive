@@ -1,1 +1,31 @@
-
+{
+  "site": {
+    "title": "MixArchive",
+    "description": "Unofficial MixChannel Event Archive"
+  },
+  "scraping": {
+    "timezone": "Asia/Tokyo",
+    "rankingLimit": 30,
+    "finalDayRankingLimit": 100,
+    "retryCount": 3,
+    "requestIntervalMs": 3000,
+    "headless": true
+  },
+  "storage": {
+    "backup": true,
+    "preventDuplicateHistory": true,
+    "preventOverwriteOnFailure": true,
+    "saveOnlyParsedData": true
+  },
+  "features": {
+    "eventSearch": true,
+    "liverSearch": true,
+    "profileIdSearch": true,
+    "pointHistory": true,
+    "lastDayGain": true,
+    "nameHistory": true,
+    "eventParticipationHistory": true,
+    "liverParticipationHistory": true
+  },
+  "schemaVersion": 1
+}

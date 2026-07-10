@@ -1,0 +1,77 @@
+{
+  "snapshotId": "89037353ffac9f82d4fb17e09ea358dd4ccdf615",
+  "eventKey": "24317_20260705_20260714",
+  "eventId": "24317",
+  "capturedAt": "2026-07-08T14:07:35.404Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "00a2532597408d3d17d79f192a31bf085fdb723685585d380aba0a160da3fd2d",
+  "entryCount": 8,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18084988",
+      "profileUrl": "https://mixch.tv/u/18084988",
+      "name": "まっちゃ🐱🫧🎀#LARMEﾚｷﾞｭﾓ",
+      "point": 188890,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18084988/1780504410/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18732597",
+      "profileUrl": "https://mixch.tv/u/18732597",
+      "name": "こはる。🍓🫧#LARME",
+      "point": 59168,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18732597/1783252433/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18374695",
+      "profileUrl": "https://mixch.tv/u/18374695",
+      "name": "あいり😈💗#LARME",
+      "point": 32006,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18374695/1782610653/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18223509",
+      "profileUrl": "https://mixch.tv/u/18223509",
+      "name": "なつき🐰🌻#LARME",
+      "point": 5640,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18223509/1782571799/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18757888",
+      "profileUrl": "https://mixch.tv/u/18757888",
+      "name": "ひとみ👀#LARMEスタダ",
+      "point": 3180,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18757888/1780908476/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18387754",
+      "profileUrl": "https://mixch.tv/u/18387754",
+      "name": "norika💞🦩",
+      "point": 790,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18387754/1782916006/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18765132",
+      "profileUrl": "https://mixch.tv/u/18765132",
+      "name": "まだら🐶‪🧡‬‪",
+      "point": 774,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18765132/1777518699/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18920528",
+      "profileUrl": "https://mixch.tv/u/18920528",
+      "name": "【ガチイベ🔥 LARME】さーや",
+      "point": 4,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920528/1782444569/small"
+    }
+  ]
+}

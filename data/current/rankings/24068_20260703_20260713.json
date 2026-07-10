@@ -1,0 +1,127 @@
+{
+  "eventKey": "24068_20260703_20260713",
+  "eventId": "24068",
+  "capturedAt": "2026-07-08T14:08:33.291Z",
+  "entryCount": 12,
+  "rankingHash": "174eda4639d6a0006e869eadce3b7f91b0e56e5c11075aab62f63418f201311d",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "14372103",
+      "profileUrl": "https://mixch.tv/u/14372103",
+      "name": "宮崎 寿々佳㊗️💘",
+      "point": 832714,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/14372103/1783154782/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18504420",
+      "profileUrl": "https://mixch.tv/u/18504420",
+      "name": "うみにゃ🐬💕#13日～関コレ🔥",
+      "point": 570691,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18504420/1783339906/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18053143",
+      "profileUrl": "https://mixch.tv/u/18053143",
+      "name": "まお🐕🍦7/9〜ファミマ‼️",
+      "point": 62025,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18053143/1783272230/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18750324",
+      "profileUrl": "https://mixch.tv/u/18750324",
+      "name": "web投票してねLea🍒💎マリンCM",
+      "point": 52439,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18750324/1781769882/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "16534914",
+      "profileUrl": "https://mixch.tv/u/16534914",
+      "name": "Reina🧚‍♀️🎯#ロッテ野球CM",
+      "point": 49060,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16534914/1783513626/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18493271",
+      "profileUrl": "https://mixch.tv/u/18493271",
+      "name": "あおい🤸✏️#ZOZOマリンCM",
+      "point": 40300,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18493271/1782645716/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18044912",
+      "profileUrl": "https://mixch.tv/u/18044912",
+      "name": "🧡‬‪YUI🌷",
+      "point": 19900,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18044912/1779031043/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18609417",
+      "profileUrl": "https://mixch.tv/u/18609417",
+      "name": "𝙋𝘼𝙄𝙉𝙏𝙀𝙍",
+      "point": 10728,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18609417/1783249431/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18071003",
+      "profileUrl": "https://mixch.tv/u/18071003",
+      "name": "流星🌠🕶#",
+      "point": 2630,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18071003/1779998825/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18669876",
+      "profileUrl": "https://mixch.tv/u/18669876",
+      "name": "🦐💛siro🦕🌱🐴🌻🐣🐢🎼💐",
+      "point": 432,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18669876/1782867642/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "17382889",
+      "profileUrl": "https://mixch.tv/u/17382889",
+      "name": "サボン🌻🈁",
+      "point": 50,
+      "iconUrl": "https://d2uqarpmf42qy0.cloudfront.net/torte_web/_next/static/media/mysteryman.747a7706.png"
+    },
+    {
+      "rank": 12,
+      "profileId": "18390972",
+      "profileUrl": "https://mixch.tv/u/18390972",
+      "name": "としふみ⛴️👑",
+      "point": 2,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18390972/1778394381/small"
+    }
+  ]
+}
