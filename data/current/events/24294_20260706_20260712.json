@@ -6,7 +6,12 @@
   "startAt": "2026-07-06T18:00:00+09:00",
   "endAt": "2026-07-12T21:00:00+09:00",
   "status": "active",
-  "snapshots": [],
-  "createdAt": "2026-07-08T21:06:34+09:00",
-  "updatedAt": "2026-07-08T22:08:15+09:00"
+  "snapshots": [
+    "360a3fb26788a6df8963a7778731ea1cef0b9c90",
+    "9f530164de327eb61709e703e03b4d0fea5e5804",
+    "ccebd55857ad43dc7a035fc8b8bb00bb1d28e91a",
+    "425a130c5bf404a406f251447aed5d8e9233cfaa"
+  ],
+  "createdAt": "2026-07-09T13:41:18.428Z",
+  "updatedAt": "2026-07-10T13:47:00.637Z"
 }

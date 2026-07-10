@@ -1,0 +1,431 @@
+{
+  "eventKey": "24294_20260706_20260712",
+  "eventId": "24294",
+  "capturedAt": "2026-07-09T14:38:44.766Z",
+  "entryCount": 50,
+  "rankingHash": "c7e2e51a6dcefc9813cc98423c46b12f1197265ad032fedc09bd350fc57a851c",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18788697",
+      "profileUrl": "https://mixch.tv/u/18788697",
+      "name": "あやな🧸🫧jcミスコン2026",
+      "point": 218754,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18788697/1783281374/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18379900",
+      "profileUrl": "https://mixch.tv/u/18379900",
+      "name": "おでこのねね🎶💕#JCﾐｽｺﾝ2026❤︎",
+      "point": 149646,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18379900/1782909467/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18750520",
+      "profileUrl": "https://mixch.tv/u/18750520",
+      "name": "ྀི華恋🫧🐚#JCミスコン2026 ྀི",
+      "point": 110628,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18750520/1774447790/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18912153",
+      "profileUrl": "https://mixch.tv/u/18912153",
+      "name": "なこ🍥🛼#JCミスコン2026",
+      "point": 58348,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912153/1782114495/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18857087",
+      "profileUrl": "https://mixch.tv/u/18857087",
+      "name": "あかり‎🤍🌙#JCミスコン2026",
+      "point": 41190,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18857087/1779261612/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18534010",
+      "profileUrl": "https://mixch.tv/u/18534010",
+      "name": "りんか🌈🎀#JCミスコン",
+      "point": 39910,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18534010/1782692614/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18888490",
+      "profileUrl": "https://mixch.tv/u/18888490",
+      "name": "心来（みくる）🩷🪄#JCミスコン",
+      "point": 38548,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18888490/1782047188/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18861691",
+      "profileUrl": "https://mixch.tv/u/18861691",
+      "name": "もこ☁️🍑#JCミスコン2026",
+      "point": 31523,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18861691/1783328547/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18775209",
+      "profileUrl": "https://mixch.tv/u/18775209",
+      "name": "美少女Bgirl✨みちか#JCミスコン",
+      "point": 30365,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18775209/1782514591/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18432667",
+      "profileUrl": "https://mixch.tv/u/18432667",
+      "name": "みゆあⓂ️🐱🎀#JCﾐｽｺﾝ2026",
+      "point": 29388,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18432667/1782622267/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18813342",
+      "profileUrl": "https://mixch.tv/u/18813342",
+      "name": "伊藤雛苺(すま)🐣‪🍓JCミスコン",
+      "point": 27888,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18813342/1773657342/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18838049",
+      "profileUrl": "https://mixch.tv/u/18838049",
+      "name": "感謝🥇りら🍓🤍#JCミスコン",
+      "point": 23726,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18838049/1783254363/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18883612",
+      "profileUrl": "https://mixch.tv/u/18883612",
+      "name": "あんな🐹🎶#JCミスコン2026",
+      "point": 22412,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18883612/1783217819/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18906074",
+      "profileUrl": "https://mixch.tv/u/18906074",
+      "name": "華楓(かえで)💜🐈‍⬛#JCミスコン2026",
+      "point": 20512,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18906074/1783328949/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18675265",
+      "profileUrl": "https://mixch.tv/u/18675265",
+      "name": "りりあ🎀🩵#JCミスコン",
+      "point": 18888,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18675265/1780207503/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18778382",
+      "profileUrl": "https://mixch.tv/u/18778382",
+      "name": "わか🦍🍼#JCミスコン2026",
+      "point": 18800,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18778382/1780734818/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18683112",
+      "profileUrl": "https://mixch.tv/u/18683112",
+      "name": "めっち👼🏻🎀JCミスコン",
+      "point": 16678,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18683112/1773576999/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18865289",
+      "profileUrl": "https://mixch.tv/u/18865289",
+      "name": "つむぎ💗🍨#JCミスコン2026",
+      "point": 16382,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18865289/1783340431/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "14503951",
+      "profileUrl": "https://mixch.tv/u/14503951",
+      "name": "心音🩷🫧🎶#JCミスコン2026",
+      "point": 16138,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/14503951/1781622377/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18905829",
+      "profileUrl": "https://mixch.tv/u/18905829",
+      "name": "るか🐬🏉 #jcミスコン 2026",
+      "point": 14736,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18905829/1780992617/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "18759444",
+      "profileUrl": "https://mixch.tv/u/18759444",
+      "name": "みお🐣‪💗#jcミスコン2026",
+      "point": 12118,
+      "iconUrl": "https://d2uqarpmf42qy0.cloudfront.net/torte_web/_next/static/media/mysteryman.747a7706.png"
+    },
+    {
+      "rank": 22,
+      "profileId": "18924316",
+      "profileUrl": "https://mixch.tv/u/18924316",
+      "name": "るりな💗🌝#中一ミスコン",
+      "point": 9730,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18924316/1783213553/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18803331",
+      "profileUrl": "https://mixch.tv/u/18803331",
+      "name": "れあん🍋💖#🥉ありがとう",
+      "point": 8358,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18803331/1783311177/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "18454841",
+      "profileUrl": "https://mixch.tv/u/18454841",
+      "name": "れいら💋👑JCﾐｽｺﾝ2026",
+      "point": 8156,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18454841/1780830067/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "18840190",
+      "profileUrl": "https://mixch.tv/u/18840190",
+      "name": "ゆい👼🏻🍓#JCミスコン2026",
+      "point": 7510,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18840190/1783425905/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18910674",
+      "profileUrl": "https://mixch.tv/u/18910674",
+      "name": "えみ♔︎⋆͛#JCミスコン参加中🔥❤️‍🔥",
+      "point": 6760,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910674/1782053521/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18500574",
+      "profileUrl": "https://mixch.tv/u/18500574",
+      "name": "優姫👼👑＃JCミスコン2026初日ちゃん",
+      "point": 5750,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18500574/1783264617/small"
+    },
+    {
+      "rank": 28,
+      "profileId": "18265500",
+      "profileUrl": "https://mixch.tv/u/18265500",
+      "name": "せら🍓🍀",
+      "point": 5724,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18265500/1783338012/small"
+    },
+    {
+      "rank": 29,
+      "profileId": "18920154",
+      "profileUrl": "https://mixch.tv/u/18920154",
+      "name": "はな",
+      "point": 5696,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920154/1783333955/small"
+    },
+    {
+      "rank": 30,
+      "profileId": "18918924",
+      "profileUrl": "https://mixch.tv/u/18918924",
+      "name": "茉夏🥟♨️#JCミスコン",
+      "point": 5619,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18918924/1783304851/small"
+    },
+    {
+      "rank": 31,
+      "profileId": "18920731",
+      "profileUrl": "https://mixch.tv/u/18920731",
+      "name": "ももか🍑🦋#JCミスコン",
+      "point": 5292,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920731/1782642463/small"
+    },
+    {
+      "rank": 32,
+      "profileId": "18918787",
+      "profileUrl": "https://mixch.tv/u/18918787",
+      "name": "JCミスコンガチイベ中‼️ひなこ🐣🩷",
+      "point": 5128,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18918787/1782825621/small"
+    },
+    {
+      "rank": 33,
+      "profileId": "18887102",
+      "profileUrl": "https://mixch.tv/u/18887102",
+      "name": "くれは🦍🫧 #中1ミスコン2026✨",
+      "point": 4440,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18887102/1783416079/small"
+    },
+    {
+      "rank": 34,
+      "profileId": "18504732",
+      "profileUrl": "https://mixch.tv/u/18504732",
+      "name": "せいな🎀🍳#JCミスコン",
+      "point": 4088,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18504732/1777982943/small"
+    },
+    {
+      "rank": 35,
+      "profileId": "18758622",
+      "profileUrl": "https://mixch.tv/u/18758622",
+      "name": "こはる#JCミスコン2026",
+      "point": 3806,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18758622/1781265214/small"
+    },
+    {
+      "rank": 36,
+      "profileId": "18886528",
+      "profileUrl": "https://mixch.tv/u/18886528",
+      "name": "りほ🫧🎀🤍#JCミスコン挑戦中",
+      "point": 3786,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18886528/1778675072/small"
+    },
+    {
+      "rank": 37,
+      "profileId": "18926977",
+      "profileUrl": "https://mixch.tv/u/18926977",
+      "name": "そら🪄🎀#JCミスコン",
+      "point": 3740,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18926977/1783136319/small"
+    },
+    {
+      "rank": 38,
+      "profileId": "18905240",
+      "profileUrl": "https://mixch.tv/u/18905240",
+      "name": "れあ🐶❤️#JCミスコン",
+      "point": 3644,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18905240/1780573427/small"
+    },
+    {
+      "rank": 39,
+      "profileId": "18606622",
+      "profileUrl": "https://mixch.tv/u/18606622",
+      "name": "あいりん🦋💖 #jcミスコン",
+      "point": 3560,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18606622/1780897108/small"
+    },
+    {
+      "rank": 40,
+      "profileId": "18870136",
+      "profileUrl": "https://mixch.tv/u/18870136",
+      "name": "なのは🩵🪽‪＃JCミスコン",
+      "point": 3180,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18870136/1782041073/small"
+    },
+    {
+      "rank": 41,
+      "profileId": "18832664",
+      "profileUrl": "https://mixch.tv/u/18832664",
+      "name": "さくら💗🫧 ♯JCミスコン",
+      "point": 2970,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18832664/1783596719/small"
+    },
+    {
+      "rank": 42,
+      "profileId": "18648080",
+      "profileUrl": "https://mixch.tv/u/18648080",
+      "name": "ゆな🎧🍈#JCミスコン2026",
+      "point": 2682,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18648080/1778305633/small"
+    },
+    {
+      "rank": 43,
+      "profileId": "18505929",
+      "profileUrl": "https://mixch.tv/u/18505929",
+      "name": "水瀬ゆずは💗🎀🪽#JCミスコン",
+      "point": 2492,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18505929/1779513180/small"
+    },
+    {
+      "rank": 44,
+      "profileId": "18465639",
+      "profileUrl": "https://mixch.tv/u/18465639",
+      "name": "さくら🌺🩷#JCﾐｽｺﾝ2026",
+      "point": 2390,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18465639/1742298944/small"
+    },
+    {
+      "rank": 45,
+      "profileId": "18911275",
+      "profileUrl": "https://mixch.tv/u/18911275",
+      "name": "nono🌷🌷#JCミスコン",
+      "point": 2388,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911275/1781528520/small"
+    },
+    {
+      "rank": 46,
+      "profileId": "18912194",
+      "profileUrl": "https://mixch.tv/u/18912194",
+      "name": "りむ🎀🫧#JCミスコン",
+      "point": 2314,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912194/1782025481/small"
+    },
+    {
+      "rank": 47,
+      "profileId": "18846935",
+      "profileUrl": "https://mixch.tv/u/18846935",
+      "name": "せい🎀🎧#JCミスコン",
+      "point": 1858,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18846935/1782811748/small"
+    },
+    {
+      "rank": 48,
+      "profileId": "18788372",
+      "profileUrl": "https://mixch.tv/u/18788372",
+      "name": "せいら🧡💫#JCミスコン2026",
+      "point": 1850,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18788372/1768032198/small"
+    },
+    {
+      "rank": 49,
+      "profileId": "18060825",
+      "profileUrl": "https://mixch.tv/u/18060825",
+      "name": "🍑もも🍑#JCミスコン",
+      "point": 1500,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18060825/1781097176/small"
+    },
+    {
+      "rank": 50,
+      "profileId": "18865155",
+      "profileUrl": "https://mixch.tv/u/18865155",
+      "name": "陽彩(ひいろ)🐥🩷JCミスコン2026",
+      "point": 1480,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18865155/1776857441/small"
+    }
+  ]
+}

@@ -9,6 +9,7 @@
     "test": "node scrape.js --dry-run"
   },
   "dependencies": {
+    "better-sqlite3": "^12.11.1",
     "iconv-lite": "^0.7.3",
     "playwright": "^1.49.1"
   }

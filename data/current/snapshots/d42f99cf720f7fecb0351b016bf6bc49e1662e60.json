@@ -1,0 +1,413 @@
+{
+  "snapshotId": "d42f99cf720f7fecb0351b016bf6bc49e1662e60",
+  "eventKey": "24199_20260702_20260727",
+  "eventId": "24199",
+  "capturedAt": "2026-07-08T14:08:01.678Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "a4bcd594cfc984ef610e1a82d7545e8eac072bdb34c39a5fea0096f802be3914",
+  "entryCount": 50,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18896083",
+      "profileUrl": "https://mixch.tv/u/18896083",
+      "name": "りん🐶🏍#バイク女子",
+      "point": 494530,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18896083/1783437729/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18912009",
+      "profileUrl": "https://mixch.tv/u/18912009",
+      "name": "はんめちゃん🏍️🩵#バイク女子",
+      "point": 264786,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912009/1783439286/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18903906",
+      "profileUrl": "https://mixch.tv/u/18903906",
+      "name": "りり🩰🏍️#バイク女子",
+      "point": 212029,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18903906/1782957568/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18902661",
+      "profileUrl": "https://mixch.tv/u/18902661",
+      "name": "mochi🏍️✈️#バイク女子",
+      "point": 169064,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18902661/1783402822/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18893034",
+      "profileUrl": "https://mixch.tv/u/18893034",
+      "name": "あかりん🏍💕#バイク女子",
+      "point": 164616,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18893034/1783469242/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18883555",
+      "profileUrl": "https://mixch.tv/u/18883555",
+      "name": "いぶ🐰🍓🏍#バイク女子",
+      "point": 161676,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18883555/1781496692/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18910157",
+      "profileUrl": "https://mixch.tv/u/18910157",
+      "name": "🖤すんやん💜#バイク女子",
+      "point": 156567,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910157/1782170021/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18882904",
+      "profileUrl": "https://mixch.tv/u/18882904",
+      "name": "ゆゆだぼ🍫🏍️#バイク女子",
+      "point": 96001,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18882904/1782942006/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "16781963",
+      "profileUrl": "https://mixch.tv/u/16781963",
+      "name": "ゆなち🦋🌸#12日1.3倍🔥",
+      "point": 94660,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16781963/1782957640/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18912502",
+      "profileUrl": "https://mixch.tv/u/18912502",
+      "name": "ひめ🏍️🌿#バイク女子🔥12日1.3倍",
+      "point": 58408,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912502/1783410877/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "6319153",
+      "profileUrl": "https://mixch.tv/u/6319153",
+      "name": "💪懸垂ちゃん🤍",
+      "point": 41830,
+      "iconUrl": "https://d2uqarpmf42qy0.cloudfront.net/torte_web/_next/static/media/mysteryman.747a7706.png"
+    },
+    {
+      "rank": 12,
+      "profileId": "18181599",
+      "profileUrl": "https://mixch.tv/u/18181599",
+      "name": "おっちー🌼🏍️#バイク女子🗺",
+      "point": 33642,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18181599/1783177244/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18920626",
+      "profileUrl": "https://mixch.tv/u/18920626",
+      "name": "うさこ🐰🍊#バイク女子",
+      "point": 28530,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920626/1783226019/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18885855",
+      "profileUrl": "https://mixch.tv/u/18885855",
+      "name": "杏(きょう)🏍️✍️#バイク女子",
+      "point": 13115,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18885855/1783298282/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18917163",
+      "profileUrl": "https://mixch.tv/u/18917163",
+      "name": "てむ🏍️💄#バイク女子",
+      "point": 11494,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18917163/1782970072/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18909881",
+      "profileUrl": "https://mixch.tv/u/18909881",
+      "name": "まい🐶🏍️#バイク女子",
+      "point": 10095,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909881/1781320388/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18921002",
+      "profileUrl": "https://mixch.tv/u/18921002",
+      "name": "はくまい🌾🦋#バイク女子",
+      "point": 6378,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18921002/1783092865/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18888133",
+      "profileUrl": "https://mixch.tv/u/18888133",
+      "name": "らん🏍️〰️#バイク女子",
+      "point": 5844,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18888133/1783075222/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18874842",
+      "profileUrl": "https://mixch.tv/u/18874842",
+      "name": "己理可(きりか)🏍💖#バイク女子",
+      "point": 5610,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18874842/1777341938/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18420266",
+      "profileUrl": "https://mixch.tv/u/18420266",
+      "name": "みずき🩵🫧#バイク女子",
+      "point": 4742,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18420266/1751610072/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "18890557",
+      "profileUrl": "https://mixch.tv/u/18890557",
+      "name": "ゆー🏍️👗#バイク女子",
+      "point": 4501,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18890557/1781081953/small"
+    },
+    {
+      "rank": 22,
+      "profileId": "18909030",
+      "profileUrl": "https://mixch.tv/u/18909030",
+      "name": "りな🏍️💨#バイク女子",
+      "point": 1848,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909030/1781545461/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18890938",
+      "profileUrl": "https://mixch.tv/u/18890938",
+      "name": "J🌸🏍 #バイク女子",
+      "point": 1838,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18890938/1780472159/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "18898528",
+      "profileUrl": "https://mixch.tv/u/18898528",
+      "name": "もしゃ🔰🏍️#バイク女子",
+      "point": 1179,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18898528/1779940419/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "18717674",
+      "profileUrl": "https://mixch.tv/u/18717674",
+      "name": "ほのか🛵💕#バイク女子",
+      "point": 1087,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18717674/1783322821/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18439107",
+      "profileUrl": "https://mixch.tv/u/18439107",
+      "name": "あんり🏍️⚡️#バイク女子",
+      "point": 915,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18439107/1780549582/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18885753",
+      "profileUrl": "https://mixch.tv/u/18885753",
+      "name": "ako🏍️🏕️#バイク女子",
+      "point": 906,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18885753/1782894549/small"
+    },
+    {
+      "rank": 28,
+      "profileId": "18894074",
+      "profileUrl": "https://mixch.tv/u/18894074",
+      "name": "アロリリ🐶🐱#バイク女子",
+      "point": 868,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18894074/1779522735/small"
+    },
+    {
+      "rank": 29,
+      "profileId": "18908090",
+      "profileUrl": "https://mixch.tv/u/18908090",
+      "name": "ぼすちゃん🐝🍯#バイク女子",
+      "point": 657,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908090/1781005973/small"
+    },
+    {
+      "rank": 30,
+      "profileId": "18917119",
+      "profileUrl": "https://mixch.tv/u/18917119",
+      "name": "雨瑠🖤✝️#バイク女子",
+      "point": 465,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18917119/1782089991/small"
+    },
+    {
+      "rank": 31,
+      "profileId": "18911739",
+      "profileUrl": "https://mixch.tv/u/18911739",
+      "name": "ねてる#バイク女子❤️‍🔥初参戦☀️",
+      "point": 401,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911739/1781611445/small"
+    },
+    {
+      "rank": 32,
+      "profileId": "18886407",
+      "profileUrl": "https://mixch.tv/u/18886407",
+      "name": "1.3倍❤️‍🔥まりか#バイク女子",
+      "point": 362,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18886407/1783354956/small"
+    },
+    {
+      "rank": 33,
+      "profileId": "18588657",
+      "profileUrl": "https://mixch.tv/u/18588657",
+      "name": "ゆる🍄‍🟫🌸#バイク女子",
+      "point": 352,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18588657/1772449835/small"
+    },
+    {
+      "rank": 34,
+      "profileId": "18902714",
+      "profileUrl": "https://mixch.tv/u/18902714",
+      "name": "NagisanoRumi🐈‍⬛🎀#バイク女子",
+      "point": 314,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18902714/1780316926/small"
+    },
+    {
+      "rank": 35,
+      "profileId": "18904391",
+      "profileUrl": "https://mixch.tv/u/18904391",
+      "name": "歌汰 寧祢",
+      "point": 273,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18904391/1782998976/small"
+    },
+    {
+      "rank": 36,
+      "profileId": "18911970",
+      "profileUrl": "https://mixch.tv/u/18911970",
+      "name": "むぅ👶👶🏻#バイク女子",
+      "point": 265,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911970/1781677568/small"
+    },
+    {
+      "rank": 37,
+      "profileId": "18811093",
+      "profileUrl": "https://mixch.tv/u/18811093",
+      "name": "あっちゃん",
+      "point": 235,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18811093/1771335445/small"
+    },
+    {
+      "rank": 38,
+      "profileId": "18920906",
+      "profileUrl": "https://mixch.tv/u/18920906",
+      "name": "🦋べびち🦋🏍#バイク女子",
+      "point": 220,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920906/1782479841/small"
+    },
+    {
+      "rank": 39,
+      "profileId": "10489979",
+      "profileUrl": "https://mixch.tv/u/10489979",
+      "name": "みくふぉあ🏍💜 #バイク女子",
+      "point": 166,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/10489979/1780040470/small"
+    },
+    {
+      "rank": 40,
+      "profileId": "18900114",
+      "profileUrl": "https://mixch.tv/u/18900114",
+      "name": "りんりん💍💖#バイク女子",
+      "point": 55,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18900114/1780311753/small"
+    },
+    {
+      "rank": 41,
+      "profileId": "18873469",
+      "profileUrl": "https://mixch.tv/u/18873469",
+      "name": "ネル🏍🥂#バイク女子",
+      "point": 50,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18873469/1782897067/small"
+    },
+    {
+      "rank": 42,
+      "profileId": "18913060",
+      "profileUrl": "https://mixch.tv/u/18913060",
+      "name": "うに #バイク女子発掘コンテスト",
+      "point": 45,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18913060/1782988842/small"
+    },
+    {
+      "rank": 43,
+      "profileId": "18929508",
+      "profileUrl": "https://mixch.tv/u/18929508",
+      "name": "えみ🙋‍♀️✨",
+      "point": 41,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18929508/1783351145/small"
+    },
+    {
+      "rank": 44,
+      "profileId": "18893360",
+      "profileUrl": "https://mixch.tv/u/18893360",
+      "name": "あめ🏍️🍭#バイク女子",
+      "point": 40,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18893360/1779462505/small"
+    },
+    {
+      "rank": 45,
+      "profileId": "14828279",
+      "profileUrl": "https://mixch.tv/u/14828279",
+      "name": "Kamiharu🌸🏍️#バイク女子",
+      "point": 37,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/14828279/1781923547/small"
+    },
+    {
+      "rank": 46,
+      "profileId": "18911050",
+      "profileUrl": "https://mixch.tv/u/18911050",
+      "name": "ゆな🏍️#バイク女子",
+      "point": 36,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911050/1781789389/small"
+    },
+    {
+      "rank": 47,
+      "profileId": "18885219",
+      "profileUrl": "https://mixch.tv/u/18885219",
+      "name": "初心者ライダー🔰 ぽぽ #バイク女子",
+      "point": 31,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18885219/1779094643/small"
+    },
+    {
+      "rank": 48,
+      "profileId": "18314623",
+      "profileUrl": "https://mixch.tv/u/18314623",
+      "name": "いかちゃん#バイク女子",
+      "point": 15,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18314623/1779891390/small"
+    },
+    {
+      "rank": 49,
+      "profileId": "18920574",
+      "profileUrl": "https://mixch.tv/u/18920574",
+      "name": "(あ)やんゴ🏍️🫧#バイク女子",
+      "point": 12,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920574/1782466305/small"
+    },
+    {
+      "rank": 50,
+      "profileId": "18892337",
+      "profileUrl": "https://mixch.tv/u/18892337",
+      "name": "はんな🥒#バイク女子🏍",
+      "point": 10,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18892337/1782986259/small"
+    }
+  ]
+}

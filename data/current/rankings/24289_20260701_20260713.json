@@ -1,0 +1,151 @@
+{
+  "eventKey": "24289_20260701_20260713",
+  "eventId": "24289",
+  "capturedAt": "2026-07-08T14:09:10.083Z",
+  "entryCount": 15,
+  "rankingHash": "ef265b24d138954604b7bd0651fb863f340a632577e5333812cb0f3d63e5af51",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18904212",
+      "profileUrl": "https://mixch.tv/u/18904212",
+      "name": "Emi🌹#日本ワイン大使AD",
+      "point": 224272,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18904212/1782749050/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18899291",
+      "profileUrl": "https://mixch.tv/u/18899291",
+      "name": "福のbar✨🥂#X固定いいねRPお願い🔥",
+      "point": 91490,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18899291/1782230810/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18243125",
+      "profileUrl": "https://mixch.tv/u/18243125",
+      "name": "しゅー👟#日本ワイン大使",
+      "point": 70000,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18243125/1783437705/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18903354",
+      "profileUrl": "https://mixch.tv/u/18903354",
+      "name": "TOMO🍷🍊Xインスタいいねリポ",
+      "point": 69666,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18903354/1783447229/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18907428",
+      "profileUrl": "https://mixch.tv/u/18907428",
+      "name": "宏平⛺️🎣🦌インスタ、Xフォローいいね🙏",
+      "point": 68526,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18907428/1782471556/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18908399",
+      "profileUrl": "https://mixch.tv/u/18908399",
+      "name": "銀座から日本ワインを発信🍷🇯🇵あきほっち",
+      "point": 54047,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908399/1781151571/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18763643",
+      "profileUrl": "https://mixch.tv/u/18763643",
+      "name": "ななみん🐵🍷🍺#日本ﾜｲﾝ大使",
+      "point": 45358,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18763643/1783263684/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18896847",
+      "profileUrl": "https://mixch.tv/u/18896847",
+      "name": "じゅん君🇰🇷🍷日本ワイン大使AD準決勝！",
+      "point": 28124,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18896847/1779933725/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18911974",
+      "profileUrl": "https://mixch.tv/u/18911974",
+      "name": "🍷フリーアナウンサーmiwa🎤🦜🧚",
+      "point": 25043,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911974/1783258363/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18913225",
+      "profileUrl": "https://mixch.tv/u/18913225",
+      "name": "ソムリエkyouko🍇👘 #ワイン大使",
+      "point": 21287,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18913225/1782703597/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18911976",
+      "profileUrl": "https://mixch.tv/u/18911976",
+      "name": "白石涼海ryo🍷#日本ワイン大使AD",
+      "point": 19903,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911976/1783411825/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18902913",
+      "profileUrl": "https://mixch.tv/u/18902913",
+      "name": "ぱるこ⭐️🍷#日本ワイン大使",
+      "point": 14909,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18902913/1783040722/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18909439",
+      "profileUrl": "https://mixch.tv/u/18909439",
+      "name": "🍷ハルミン🍷日本ワイン大使オーディション",
+      "point": 11924,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909439/1781266574/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18904535",
+      "profileUrl": "https://mixch.tv/u/18904535",
+      "name": "ふぉれっと🌳🐇",
+      "point": 10866,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18904535/1783091617/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "16983724",
+      "profileUrl": "https://mixch.tv/u/16983724",
+      "name": "桃瀬彩乃🩵🪽",
+      "point": 3340,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16983724/1782278323/small"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "snapshotId": "1c343258c0ffbec9ef68e9680aacaeea1cb3cd4d",
+  "eventKey": "24319_20260705_20260714",
+  "eventId": "24319",
+  "capturedAt": "2026-07-08T14:07:40.645Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "12fc9564ea502154f2ec64d4f7a8d67ab2a27939f8712c9a13cb8f26d2ba9d0c",
+  "entryCount": 11,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "8001358",
+      "profileUrl": "https://mixch.tv/u/8001358",
+      "name": "彩沢朋花🕊️大本命LARME❤️‍🔥",
+      "point": 264077,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/8001358/1783273291/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18905077",
+      "profileUrl": "https://mixch.tv/u/18905077",
+      "name": "ふーちゃん🐚🪼",
+      "point": 37810,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18905077/1781281822/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "616243",
+      "profileUrl": "https://mixch.tv/u/616243",
+      "name": "わたなべみなみ🐻🍮なみなみらじお",
+      "point": 27810,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/616243/1782694699/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18079509",
+      "profileUrl": "https://mixch.tv/u/18079509",
+      "name": "仁美👶🏻💄#LARME",
+      "point": 23324,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18079509/1763883430/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "14995355",
+      "profileUrl": "https://mixch.tv/u/14995355",
+      "name": "なりみ🐖🎀#LARME",
+      "point": 17276,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/14995355/1780239844/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18803113",
+      "profileUrl": "https://mixch.tv/u/18803113",
+      "name": "あやか",
+      "point": 4285,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18803113/1775216176/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18925144",
+      "profileUrl": "https://mixch.tv/u/18925144",
+      "name": "なっぺ。🍒🫧#LARME",
+      "point": 4281,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18925144/1782899303/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18913738",
+      "profileUrl": "https://mixch.tv/u/18913738",
+      "name": "🫧🐑",
+      "point": 1933,
+      "iconUrl": "https://d2uqarpmf42qy0.cloudfront.net/torte_web/_next/static/media/mysteryman.747a7706.png"
+    },
+    {
+      "rank": 9,
+      "profileId": "18812706",
+      "profileUrl": "https://mixch.tv/u/18812706",
+      "name": "花宮 夢羽(はなみや ゆめは)",
+      "point": 1220,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18812706/1783505993/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18177284",
+      "profileUrl": "https://mixch.tv/u/18177284",
+      "name": "本気の莉桜🎷🌸/ラルム",
+      "point": 760,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18177284/1779716933/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18636869",
+      "profileUrl": "https://mixch.tv/u/18636869",
+      "name": "めい🐑#LARME",
+      "point": 210,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18636869/1782784266/small"
+    }
+  ]
+}

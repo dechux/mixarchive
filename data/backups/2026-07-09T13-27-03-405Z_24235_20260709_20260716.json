@@ -1,0 +1,95 @@
+{
+  "eventKey": "24235_20260709_20260716",
+  "eventId": "24235",
+  "capturedAt": "2026-07-09T13:25:33.005Z",
+  "entryCount": 8,
+  "rankingHash": "1c8dc1e341b8bde8d120c1a50d48b6c4605e5d8d71b44b313ab92a697b8b19ce",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "17125909",
+      "profileUrl": "https://mixch.tv/u/17125909",
+      "name": "齋藤有紗 (ラフ×ラフ)TIF×タテドラ",
+      "point": 148934,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17125909/1783312420/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "16989563",
+      "profileUrl": "https://mixch.tv/u/16989563",
+      "name": "三栗なの🌼🍯 #TIF×タテドラAD",
+      "point": 63454,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16989563/1782806342/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18914214",
+      "profileUrl": "https://mixch.tv/u/18914214",
+      "name": "松永ちとせ アップアップガールズ（仮）",
+      "point": 49161,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18914214/1781932278/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "17866373",
+      "profileUrl": "https://mixch.tv/u/17866373",
+      "name": "白石あお🦋🩵初日TIFﾀﾃﾄﾞﾗ",
+      "point": 45782,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17866373/1783595396/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18919951",
+      "profileUrl": "https://mixch.tv/u/18919951",
+      "name": "薄倉りな【myojou】",
+      "point": 32977,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18919951/1783328765/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18911720",
+      "profileUrl": "https://mixch.tv/u/18911720",
+      "name": "涼音りあ【AQUAPLANET】",
+      "point": 31348,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911720/1781609130/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18920543",
+      "profileUrl": "https://mixch.tv/u/18920543",
+      "name": "恋鈴かさね",
+      "point": 25372,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920543/1782445984/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18927373",
+      "profileUrl": "https://mixch.tv/u/18927373",
+      "name": "雛月ひな【パラディーク】TIF×タテドラ",
+      "point": 1240,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927373/1782996609/small"
+    }
+  ]
+}

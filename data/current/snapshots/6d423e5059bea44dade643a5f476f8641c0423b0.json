@@ -1,0 +1,133 @@
+{
+  "snapshotId": "6d423e5059bea44dade643a5f476f8641c0423b0",
+  "eventKey": "24310_20260706_20260727",
+  "eventId": "24310",
+  "capturedAt": "2026-07-08T14:08:12.177Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "175c70d6bfc7eacff0e01c28ab2a5f9e2788ee3a7ed09adf17b1f108e203f4e4",
+  "entryCount": 15,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18614596",
+      "profileUrl": "https://mixch.tv/u/18614596",
+      "name": "たかぽち🔥💫#キャンボイ",
+      "point": 69429,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18614596/1783449008/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18904342",
+      "profileUrl": "https://mixch.tv/u/18904342",
+      "name": "孝優(たかまさ)🦅❄️#キャンボイ",
+      "point": 29012,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18904342/1782704502/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18912014",
+      "profileUrl": "https://mixch.tv/u/18912014",
+      "name": "しおん🏀🦖#キャンボイ",
+      "point": 23342,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912014/1782578425/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18394778",
+      "profileUrl": "https://mixch.tv/u/18394778",
+      "name": "吉開ゆうすけ⭐️💛#キャンボイ",
+      "point": 22094,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18394778/1783493810/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "17287787",
+      "profileUrl": "https://mixch.tv/u/17287787",
+      "name": "まっつん🎍🍟#キャンボイ",
+      "point": 4320,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17287787/1779906350/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18924119",
+      "profileUrl": "https://mixch.tv/u/18924119",
+      "name": "かい🔥🕺#キャンボイ",
+      "point": 1006,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18924119/1783411704/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18928103",
+      "profileUrl": "https://mixch.tv/u/18928103",
+      "name": "白石翔幹🐶🪐#campusboys",
+      "point": 570,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18928103/1783081190/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18908573",
+      "profileUrl": "https://mixch.tv/u/18908573",
+      "name": "HINATA🐶☀️#キャンボイ",
+      "point": 510,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908573/1781086075/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18905015",
+      "profileUrl": "https://mixch.tv/u/18905015",
+      "name": "芦田右仁🫠🍀#CAMPUS BOYS",
+      "point": 340,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18905015/1780547980/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "16919159",
+      "profileUrl": "https://mixch.tv/u/16919159",
+      "name": "たいき#キャンボイ",
+      "point": 310,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16919159/1782368243/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18907703",
+      "profileUrl": "https://mixch.tv/u/18907703",
+      "name": "きら✨#キャンボイ",
+      "point": 280,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18907703/1782225937/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18388510",
+      "profileUrl": "https://mixch.tv/u/18388510",
+      "name": "きりとも",
+      "point": 50,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18388510/1782229409/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "16402085",
+      "profileUrl": "https://mixch.tv/u/16402085",
+      "name": "のぞみ",
+      "point": 50,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16402085/1781630260/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18906833",
+      "profileUrl": "https://mixch.tv/u/18906833",
+      "name": "輝星✨#キャンボイ",
+      "point": 40,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18906833/1781145790/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18912096",
+      "profileUrl": "https://mixch.tv/u/18912096",
+      "name": "つかさ🌻🌂♯キャンボイ",
+      "point": 20,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912096/1782383202/small"
+    }
+  ]
+}

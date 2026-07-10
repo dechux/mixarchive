@@ -1,0 +1,229 @@
+{
+  "snapshotId": "47111e952e15437e1c1384256f5184430c43cfe1",
+  "eventKey": "24250_20260701_20260711",
+  "eventId": "24250",
+  "capturedAt": "2026-07-08T14:09:52.226Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "7afb2bda9cd0410a17de91a1300cdb901d6018a55c25cf1daba6e861d449f690",
+  "entryCount": 27,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "17963354",
+      "profileUrl": "https://mixch.tv/u/17963354",
+      "name": "🎹🩷ゆずは🎹🩷#ﾗﾋﾞｯﾃｨ🔥",
+      "point": 221442,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17963354/1778422215/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "15698077",
+      "profileUrl": "https://mixch.tv/u/15698077",
+      "name": "うっかりカサゴ🐟💛#Reabbity",
+      "point": 120600,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/15698077/1775611325/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18106648",
+      "profileUrl": "https://mixch.tv/u/18106648",
+      "name": "ポニー🎠🌈#Reabbity",
+      "point": 109564,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18106648/1775457184/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18409493",
+      "profileUrl": "https://mixch.tv/u/18409493",
+      "name": "seri🌼🐾#Reabbity🐰",
+      "point": 68957,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18409493/1783207371/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "17874975",
+      "profileUrl": "https://mixch.tv/u/17874975",
+      "name": "りこ🐱💜本日誕生日🎉",
+      "point": 62866,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17874975/1769495445/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "16502670",
+      "profileUrl": "https://mixch.tv/u/16502670",
+      "name": "Riona🐈💐🎁うきょ🐈🍀#ﾗﾋﾞｯﾃｨ❤️‍🔥",
+      "point": 41499,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16502670/1719874330/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18119489",
+      "profileUrl": "https://mixch.tv/u/18119489",
+      "name": "ひな🫧🎵#ﾗﾋﾞｯﾃｨ‪‪❤️‍🔥‪‪❤️‍🔥",
+      "point": 40900,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18119489/1783046603/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "17941786",
+      "profileUrl": "https://mixch.tv/u/17941786",
+      "name": "ぽむぽむティンク🍎💫#reabbity",
+      "point": 35808,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17941786/1779011463/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "17891146",
+      "profileUrl": "https://mixch.tv/u/17891146",
+      "name": "みのりんりん🫧💎🌟#Reabbity",
+      "point": 31640,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17891146/1737028941/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18319648",
+      "profileUrl": "https://mixch.tv/u/18319648",
+      "name": "めりりん🎀🩰 #Reabbity",
+      "point": 30220,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18319648/1771742098/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "17953745",
+      "profileUrl": "https://mixch.tv/u/17953745",
+      "name": "いおり👻🤍🏳️#Reabbity",
+      "point": 25432,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17953745/1738222862/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18099341",
+      "profileUrl": "https://mixch.tv/u/18099341",
+      "name": "ゆい乃🩷🐹🥞#Reabcity",
+      "point": 24150,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18099341/1766757361/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18603722",
+      "profileUrl": "https://mixch.tv/u/18603722",
+      "name": "みお🥚🐣🐓 #Reabbity",
+      "point": 22832,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18603722/1782903927/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "17421763",
+      "profileUrl": "https://mixch.tv/u/17421763",
+      "name": "はっぴぃはっぴぃ🐰🌙 #Reabbity",
+      "point": 22024,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17421763/1782949959/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18589762",
+      "profileUrl": "https://mixch.tv/u/18589762",
+      "name": "にゃろんぱん‎🧡‬🐾#Reabbity",
+      "point": 19552,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18589762/1749902016/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18041704",
+      "profileUrl": "https://mixch.tv/u/18041704",
+      "name": "りのあ#Reabbity",
+      "point": 14070,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18041704/1782994164/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18215729",
+      "profileUrl": "https://mixch.tv/u/18215729",
+      "name": "Lana🖤🛼#Reabbtuy",
+      "point": 12702,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18215729/1782920665/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18865034",
+      "profileUrl": "https://mixch.tv/u/18865034",
+      "name": "ゆづ🐥🎶🌙 #Reabbity",
+      "point": 12595,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18865034/1776062050/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18120472",
+      "profileUrl": "https://mixch.tv/u/18120472",
+      "name": "𝙧 𝙞 𝙤#Reabbity",
+      "point": 10084,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18120472/1740300537/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18627629",
+      "profileUrl": "https://mixch.tv/u/18627629",
+      "name": "るあ🧸🍭#Reabbity",
+      "point": 6800,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18627629/1752907324/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "18199704",
+      "profileUrl": "https://mixch.tv/u/18199704",
+      "name": "りこ🐸💋#Reabbity",
+      "point": 5608,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18199704/1782280558/small"
+    },
+    {
+      "rank": 22,
+      "profileId": "18732279",
+      "profileUrl": "https://mixch.tv/u/18732279",
+      "name": "Yukia💕🎧💘#Reabbity,",
+      "point": 2732,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18732279/1782913000/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18696517",
+      "profileUrl": "https://mixch.tv/u/18696517",
+      "name": "なのは🌼#Reabbity",
+      "point": 2720,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18696517/1761727805/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "17532492",
+      "profileUrl": "https://mixch.tv/u/17532492",
+      "name": "Minka♯Reabbity",
+      "point": 2294,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17532492/1782940046/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "18399408",
+      "profileUrl": "https://mixch.tv/u/18399408",
+      "name": "びじゅ#Reabbity",
+      "point": 2130,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18399408/1783036126/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18224922",
+      "profileUrl": "https://mixch.tv/u/18224922",
+      "name": "Miyuko🎧‎🤍#Reabbity",
+      "point": 2112,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18224922/1760007358/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18817801",
+      "profileUrl": "https://mixch.tv/u/18817801",
+      "name": "Momoka🩷#Reabbity",
+      "point": 1074,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18817801/1783157776/small"
+    }
+  ]
+}

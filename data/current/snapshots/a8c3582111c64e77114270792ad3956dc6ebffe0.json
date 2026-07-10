@@ -1,0 +1,165 @@
+{
+  "snapshotId": "a8c3582111c64e77114270792ad3956dc6ebffe0",
+  "eventKey": "24119_20260701_20260713",
+  "eventId": "24119",
+  "capturedAt": "2026-07-08T14:08:59.596Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "4aaaf70d5c4f72388d04fe8e223d9c54ea17a5745b8434c53be86ea16d0d9364",
+  "entryCount": 19,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "17517637",
+      "profileUrl": "https://mixch.tv/u/17517637",
+      "name": "るなぴ🖤🌈キャンディ 1日店長🍭👑",
+      "point": 226366,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17517637/1783264222/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "17835263",
+      "profileUrl": "https://mixch.tv/u/17835263",
+      "name": "秘密🤫のasaka💅💝#CANDY",
+      "point": 101715,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17835263/1782907728/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18640356",
+      "profileUrl": "https://mixch.tv/u/18640356",
+      "name": "戸上 黎耶 【DASHIMAKI】",
+      "point": 85486,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18640356/1766663122/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "17395666",
+      "profileUrl": "https://mixch.tv/u/17395666",
+      "name": "曖花ひより🧸ྀི💘",
+      "point": 81879,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17395666/1773253715/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18924045",
+      "profileUrl": "https://mixch.tv/u/18924045",
+      "name": "ひなた🧸🌻#🍬",
+      "point": 43928,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18924045/1782727351/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18617149",
+      "profileUrl": "https://mixch.tv/u/18617149",
+      "name": "ゆい🐬🎧#九州ランウェイ",
+      "point": 19276,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18617149/1782439684/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18873439",
+      "profileUrl": "https://mixch.tv/u/18873439",
+      "name": "ふう🩵#Candy🍬",
+      "point": 14668,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18873439/1782030083/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18758171",
+      "profileUrl": "https://mixch.tv/u/18758171",
+      "name": "✨️希星💍（きてぃ）#🍬1日店長",
+      "point": 8010,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18758171/1773592124/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18920524",
+      "profileUrl": "https://mixch.tv/u/18920524",
+      "name": "HARU🧸🎪",
+      "point": 7680,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18920524/1782722857/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "18516318",
+      "profileUrl": "https://mixch.tv/u/18516318",
+      "name": "りこ🎀🌨️ #JCミスコン2026",
+      "point": 4420,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18516318/1781525166/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18880959",
+      "profileUrl": "https://mixch.tv/u/18880959",
+      "name": "三笠奏👉✨#キャンディ店長",
+      "point": 4180,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18880959/1780284642/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18149019",
+      "profileUrl": "https://mixch.tv/u/18149019",
+      "name": "紅緒🐙⚡️",
+      "point": 1729,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18149019/1774824222/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "17923391",
+      "profileUrl": "https://mixch.tv/u/17923391",
+      "name": "星呑酒々ミ⭐️👾#🛸",
+      "point": 1521,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17923391/1780984479/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18567706",
+      "profileUrl": "https://mixch.tv/u/18567706",
+      "name": "Anzu🩵🐯",
+      "point": 1465,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18567706/1780391951/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18850727",
+      "profileUrl": "https://mixch.tv/u/18850727",
+      "name": "齋藤ちほ🍀🪽",
+      "point": 1200,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18850727/1777560138/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18833696",
+      "profileUrl": "https://mixch.tv/u/18833696",
+      "name": "健豊(けんと)🚵‍♀️🔥#DKミスターコン",
+      "point": 530,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18833696/1782970348/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18494571",
+      "profileUrl": "https://mixch.tv/u/18494571",
+      "name": "兎松あやみ8/9 🐱🐯ワンマンライブ",
+      "point": 400,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18494571/1745998310/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18879648",
+      "profileUrl": "https://mixch.tv/u/18879648",
+      "name": "虹原ぴみ🐨💎.*",
+      "point": 200,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18879648/1778771516/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18390972",
+      "profileUrl": "https://mixch.tv/u/18390972",
+      "name": "としふみ⛴️👑",
+      "point": 2,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18390972/1778394381/small"
+    }
+  ]
+}

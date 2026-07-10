@@ -1,0 +1,85 @@
+{
+  "snapshotId": "ca8b2c45cf9762dd4f70a6bfe976f1a0d3f2cf02",
+  "eventKey": "24305_20260705_20260713",
+  "eventId": "24305",
+  "capturedAt": "2026-07-08T14:09:20.608Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "e3ba752a062d1c7182eb097264e2c9b1f5138b66dcf6454bc818e4a2b8658797",
+  "entryCount": 9,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18041031",
+      "profileUrl": "https://mixch.tv/u/18041031",
+      "name": "きみか🐬🫧13日〜始球式⚾️🔥",
+      "point": 86330,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18041031/1773626658/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18890522",
+      "profileUrl": "https://mixch.tv/u/18890522",
+      "name": "りこ⚾️🎧楽天始球式イベ",
+      "point": 55461,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18890522/1780589948/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18424887",
+      "profileUrl": "https://mixch.tv/u/18424887",
+      "name": "ねお🐭🫰🏻#野球GIRL⚾️",
+      "point": 49208,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18424887/1780312967/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18916276",
+      "profileUrl": "https://mixch.tv/u/18916276",
+      "name": "【椿かれん🌷❤️】#楽天始球式",
+      "point": 21430,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18916276/1782060513/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18891307",
+      "profileUrl": "https://mixch.tv/u/18891307",
+      "name": "清水Itsuki🚰‎楽天始球式",
+      "point": 15902,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18891307/1779108465/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18689327",
+      "profileUrl": "https://mixch.tv/u/18689327",
+      "name": "稜大#楽天イーグルス⚾️",
+      "point": 1462,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18689327/1781016987/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18907507",
+      "profileUrl": "https://mixch.tv/u/18907507",
+      "name": "美音🌺#楽天イーグルス",
+      "point": 1220,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18907507/1781874267/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "18041916",
+      "profileUrl": "https://mixch.tv/u/18041916",
+      "name": "🦐やっくんゆち🦀#楽天始球式",
+      "point": 450,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18041916/1782663568/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "7208640",
+      "profileUrl": "https://mixch.tv/u/7208640",
+      "name": "ひろき⚾️❄️",
+      "point": 320,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/7208640/1782236764/small"
+    }
+  ]
+}

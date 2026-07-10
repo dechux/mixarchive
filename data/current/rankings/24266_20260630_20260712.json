@@ -1,0 +1,71 @@
+{
+  "eventKey": "24266_20260630_20260712",
+  "eventId": "24266",
+  "capturedAt": "2026-07-08T14:09:57.490Z",
+  "entryCount": 5,
+  "rankingHash": "70c65635457c665c5972773c46e625a124440d489c3bccc5b75ce11201f94aa5",
+  "tabs": [
+    {
+      "key": "ranking",
+      "label": "ランキング",
+      "order": 1
+    },
+    {
+      "key": "live",
+      "label": "ライブ",
+      "order": 2
+    },
+    {
+      "key": "movie",
+      "label": "ムービー",
+      "order": 3
+    },
+    {
+      "key": "about",
+      "label": "概要",
+      "order": 4
+    }
+  ],
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "15480979",
+      "profileUrl": "https://mixch.tv/u/15480979",
+      "name": "たお🍛🌀X固定リポスト🆘",
+      "point": 62184,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/15480979/1754835475/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18515377",
+      "profileUrl": "https://mixch.tv/u/18515377",
+      "name": "X固定RP🙏🏻 𝑲𝒂𝒏𝒂𝐦𝐢🐹💖",
+      "point": 54570,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18515377/1782905973/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18750583",
+      "profileUrl": "https://mixch.tv/u/18750583",
+      "name": "X固ﾂｲ🆘のぞみーる👼🏻🖤#千葉ﾛｯﾃ",
+      "point": 43690,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18750583/1783355922/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18904872",
+      "profileUrl": "https://mixch.tv/u/18904872",
+      "name": "たろこ#千葉ロッテ",
+      "point": 6600,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18904872/1782828878/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18910009",
+      "profileUrl": "https://mixch.tv/u/18910009",
+      "name": "ほの",
+      "point": 50,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910009/1781350803/small"
+    }
+  ]
+}

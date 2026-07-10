@@ -1,0 +1,325 @@
+{
+  "snapshotId": "3822b6792d5f97292c9cbe2f9e1a649163d8c3c7",
+  "eventKey": "24155_20260625_20260721",
+  "eventId": "24155",
+  "capturedAt": "2026-07-08T14:07:51.177Z",
+  "scheduledAt": "2026-07-08T14:06:42.224Z",
+  "durationMs": null,
+  "status": "success",
+  "rankingHash": "ee5062a9ecb4c567d979101868379808411bdb24d58f8fc4c7f1511f846d3931",
+  "entryCount": 39,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18909366",
+      "profileUrl": "https://mixch.tv/u/18909366",
+      "name": "midori🎠✨#麗し美人",
+      "point": 652992,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909366/1781236252/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18909862",
+      "profileUrl": "https://mixch.tv/u/18909862",
+      "name": "まゆ💎#麗し美人",
+      "point": 625706,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18909862/1781323105/small"
+    },
+    {
+      "rank": 3,
+      "profileId": "18404002",
+      "profileUrl": "https://mixch.tv/u/18404002",
+      "name": "7/10BD🎂minmi🐰🍁#麗し美人",
+      "point": 245148,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18404002/1780461888/small"
+    },
+    {
+      "rank": 4,
+      "profileId": "18866255",
+      "profileUrl": "https://mixch.tv/u/18866255",
+      "name": "mieko🌻💄 #麗し美人",
+      "point": 131342,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18866255/1780638000/small"
+    },
+    {
+      "rank": 5,
+      "profileId": "18885064",
+      "profileUrl": "https://mixch.tv/u/18885064",
+      "name": "chie🌻🍓#麗し美人",
+      "point": 130852,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18885064/1781046769/small"
+    },
+    {
+      "rank": 6,
+      "profileId": "18897432",
+      "profileUrl": "https://mixch.tv/u/18897432",
+      "name": "ゆな✨💖#麗し美人",
+      "point": 93876,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18897432/1782552625/small"
+    },
+    {
+      "rank": 7,
+      "profileId": "18681157",
+      "profileUrl": "https://mixch.tv/u/18681157",
+      "name": "綺薇華（きらか）🐰🥕#麗し美人発掘",
+      "point": 82680,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18681157/1782357178/small"
+    },
+    {
+      "rank": 8,
+      "profileId": "17584504",
+      "profileUrl": "https://mixch.tv/u/17584504",
+      "name": "eiko🥂💐#麗し美人",
+      "point": 76120,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17584504/1783177658/small"
+    },
+    {
+      "rank": 9,
+      "profileId": "18883910",
+      "profileUrl": "https://mixch.tv/u/18883910",
+      "name": "ゆうき💖✨#麗し美人",
+      "point": 73160,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18883910/1780996060/small"
+    },
+    {
+      "rank": 10,
+      "profileId": "17348484",
+      "profileUrl": "https://mixch.tv/u/17348484",
+      "name": "さくら💮🔬#麗し美人",
+      "point": 45885,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17348484/1782996030/small"
+    },
+    {
+      "rank": 11,
+      "profileId": "18816215",
+      "profileUrl": "https://mixch.tv/u/18816215",
+      "name": "チアまみ🌸💫ステ1🏃‍♂️#麗し美人",
+      "point": 36112,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18816215/1782401712/small"
+    },
+    {
+      "rank": 12,
+      "profileId": "18908473",
+      "profileUrl": "https://mixch.tv/u/18908473",
+      "name": "ゆりきち⛄️👨‍🏭#麗し美人",
+      "point": 32154,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908473/1781080928/small"
+    },
+    {
+      "rank": 13,
+      "profileId": "18881027",
+      "profileUrl": "https://mixch.tv/u/18881027",
+      "name": "amayadoriあすか❤️☔#麗し美人",
+      "point": 17122,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18881027/1777978911/small"
+    },
+    {
+      "rank": 14,
+      "profileId": "18912720",
+      "profileUrl": "https://mixch.tv/u/18912720",
+      "name": "綾希🪭🪭#麗し美人",
+      "point": 15151,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18912720/1781913403/small"
+    },
+    {
+      "rank": 15,
+      "profileId": "18927674",
+      "profileUrl": "https://mixch.tv/u/18927674",
+      "name": "水どう藩士🔮kanako🌙✨#麗し美人",
+      "point": 10975,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18927674/1783397243/small"
+    },
+    {
+      "rank": 16,
+      "profileId": "18908095",
+      "profileUrl": "https://mixch.tv/u/18908095",
+      "name": "ゆみ🧸🎀#麗し美人",
+      "point": 8456,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908095/1781531975/small"
+    },
+    {
+      "rank": 17,
+      "profileId": "18120314",
+      "profileUrl": "https://mixch.tv/u/18120314",
+      "name": "ひかり💖🎹#麗し美人",
+      "point": 8058,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18120314/1783133906/small"
+    },
+    {
+      "rank": 18,
+      "profileId": "18899082",
+      "profileUrl": "https://mixch.tv/u/18899082",
+      "name": "ゆき👂✨️#麗し美人",
+      "point": 7925,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18899082/1780294748/small"
+    },
+    {
+      "rank": 19,
+      "profileId": "18674157",
+      "profileUrl": "https://mixch.tv/u/18674157",
+      "name": "アキコ愛加那🌺🍠(療養中)",
+      "point": 3523,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18674157/1783074322/small"
+    },
+    {
+      "rank": 20,
+      "profileId": "18404215",
+      "profileUrl": "https://mixch.tv/u/18404215",
+      "name": "けいちゃん💞 #麗し美人",
+      "point": 2388,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18404215/1781524056/small"
+    },
+    {
+      "rank": 21,
+      "profileId": "17551147",
+      "profileUrl": "https://mixch.tv/u/17551147",
+      "name": "megane🥽🕶️#麗し美人",
+      "point": 2255,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/17551147/1781065420/small"
+    },
+    {
+      "rank": 22,
+      "profileId": "18886173",
+      "profileUrl": "https://mixch.tv/u/18886173",
+      "name": "セラピストわかな🫖🍀#癒しの音ピアノ",
+      "point": 2080,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18886173/1778800679/small"
+    },
+    {
+      "rank": 23,
+      "profileId": "18849111",
+      "profileUrl": "https://mixch.tv/u/18849111",
+      "name": "すみれ✨⭐️＃麗し美人",
+      "point": 1930,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18849111/1774265471/small"
+    },
+    {
+      "rank": 24,
+      "profileId": "18895029",
+      "profileUrl": "https://mixch.tv/u/18895029",
+      "name": "Fuwari. （ふわり）✨🌈#麗し美人",
+      "point": 1914,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18895029/1782100878/small"
+    },
+    {
+      "rank": 25,
+      "profileId": "16865369",
+      "profileUrl": "https://mixch.tv/u/16865369",
+      "name": "なつ🍫🏰#麗し美人",
+      "point": 995,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/16865369/1777369563/small"
+    },
+    {
+      "rank": 26,
+      "profileId": "18899170",
+      "profileUrl": "https://mixch.tv/u/18899170",
+      "name": "名古屋の晴美🧡👼#麗し美人",
+      "point": 469,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18899170/1780029121/small"
+    },
+    {
+      "rank": 27,
+      "profileId": "18888289",
+      "profileUrl": "https://mixch.tv/u/18888289",
+      "name": "Domy🏀🌵#麗し美人",
+      "point": 395,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18888289/1779525736/small"
+    },
+    {
+      "rank": 28,
+      "profileId": "18885078",
+      "profileUrl": "https://mixch.tv/u/18885078",
+      "name": "初日1.3倍🩷️🩵hitomi#麗し美人",
+      "point": 301,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18885078/1782378476/small"
+    },
+    {
+      "rank": 29,
+      "profileId": "18911513",
+      "profileUrl": "https://mixch.tv/u/18911513",
+      "name": "初日1.3倍❤️‍🔥Aki💎✨ #麗し美人💖",
+      "point": 271,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911513/1781579493/small"
+    },
+    {
+      "rank": 30,
+      "profileId": "18910404",
+      "profileUrl": "https://mixch.tv/u/18910404",
+      "name": "ふわちゃん🐰︎💕#麗し美人",
+      "point": 269,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910404/1781405489/small"
+    },
+    {
+      "rank": 31,
+      "profileId": "18899143",
+      "profileUrl": "https://mixch.tv/u/18899143",
+      "name": "初日1.3倍✨Naki🐰🩵#麗し美人",
+      "point": 266,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18899143/1780040296/small"
+    },
+    {
+      "rank": 32,
+      "profileId": "18918458",
+      "profileUrl": "https://mixch.tv/u/18918458",
+      "name": "💖mayumi💖#麗し美人",
+      "point": 150,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18918458/1782744878/small"
+    },
+    {
+      "rank": 33,
+      "profileId": "18910954",
+      "profileUrl": "https://mixch.tv/u/18910954",
+      "name": "Setsuko Hata",
+      "point": 122,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910954/1781502293/small"
+    },
+    {
+      "rank": 34,
+      "profileId": "18892101",
+      "profileUrl": "https://mixch.tv/u/18892101",
+      "name": "ともち🌹✨＃麗し美人",
+      "point": 44,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18892101/1780360668/small"
+    },
+    {
+      "rank": 35,
+      "profileId": "18906205",
+      "profileUrl": "https://mixch.tv/u/18906205",
+      "name": "あおい🩷✨♯麗し美人",
+      "point": 28,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18906205/1780734041/small"
+    },
+    {
+      "rank": 36,
+      "profileId": "18908769",
+      "profileUrl": "https://mixch.tv/u/18908769",
+      "name": "ぴろみ🐕💖#麗し美人",
+      "point": 24,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18908769/1781101056/small"
+    },
+    {
+      "rank": 37,
+      "profileId": "18910976",
+      "profileUrl": "https://mixch.tv/u/18910976",
+      "name": "ゆう🫶🍀麗し美人",
+      "point": 18,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18910976/1781661138/small"
+    },
+    {
+      "rank": 38,
+      "profileId": "18928486",
+      "profileUrl": "https://mixch.tv/u/18928486",
+      "name": "MT_お面👺🐶#麗し美人",
+      "point": 16,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18928486/1783342952/small"
+    },
+    {
+      "rank": 39,
+      "profileId": "18900314",
+      "profileUrl": "https://mixch.tv/u/18900314",
+      "name": "nerica《ﾈﾘｶ》❄️✨ #麗し美人",
+      "point": 5,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18900314/1782049571/small"
+    }
+  ]
+}

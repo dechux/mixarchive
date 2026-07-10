@@ -1,0 +1,29 @@
+{
+  "snapshotId": "744fbd1590a9f6db83a0727201303156c53fc857",
+  "eventKey": "24084_20260615_20260717",
+  "eventId": "24084",
+  "capturedAt": "2026-07-10T13:47:05.653Z",
+  "scheduledAt": null,
+  "durationMs": 2433,
+  "status": "success",
+  "rankingHash": "eeca51ef1f1f6b27d6f3686cc46459fd7c0c98e636f3266bad54d0cf56edb9ab",
+  "entryCount": 2,
+  "entries": [
+    {
+      "rank": 1,
+      "profileId": "18911085",
+      "profileUrl": "https://mixch.tv/u/18911085",
+      "name": "けっぱって東北",
+      "point": 1667644,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18911085/1781519038/small"
+    },
+    {
+      "rank": 2,
+      "profileId": "18849884",
+      "profileUrl": "https://mixch.tv/u/18849884",
+      "name": "めんこいな東北",
+      "point": 1006370,
+      "iconUrl": "https://d2jtsb989t238a.cloudfront.net/p/18849884/1781518965/small"
+    }
+  ]
+}
